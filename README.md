@@ -1,3 +1,8 @@
+> **This is a fork.** It is a copy of [rubytoolbox/catalog](https://github.com/rubytoolbox/catalog)
+> (MIT), operated independently at [laravel-toolbox.com](https://www.laravel-toolbox.com) and **not**
+> affiliated with or endorsed by The Ruby Toolbox. See [NOTICE](./NOTICE) for details.
+> Please report issues with the upstream project upstream, not here.
+
 # Ruby Toolbox Catalog [![CI](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml)
 
 Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
