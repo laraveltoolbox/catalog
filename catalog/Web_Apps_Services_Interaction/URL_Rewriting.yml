@@ -1,7 +1,0 @@
-name: URL Rewriting
-description: 
-projects:
-  - desviar
-  - rack-rewrite
-  - redirect
-  - refraction

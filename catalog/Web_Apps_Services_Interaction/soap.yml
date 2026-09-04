@@ -1,7 +1,0 @@
-name: SOAP Clients
-description: 
-projects:
-  - handsoap
-  - lolsoap
-  - savon
-  - serviceproxy

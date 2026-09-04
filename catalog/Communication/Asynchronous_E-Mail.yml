@@ -1,8 +1,0 @@
-name: Asynchronous E-Mail
-description:
-projects:
-  - jusnavigandi/mail_queue
-  - mailhopper
-  - popthis
-  - resque_mail_queue
-  - resque_mailer

@@ -1,8 +1,0 @@
-name: Exchange Clients
-description: 
-projects:
-  - ews-api
-  - exchanger
-  - rews
-  - rexchange
-  - viewpoint

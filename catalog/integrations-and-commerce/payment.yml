@@ -1,0 +1,23 @@
+name: Payment
+description: Taking payments and integrating with payment providers
+projects:
+- beyondcode/laravel-vouchers
+- byte5/laravel-passgenerator
+- chargebee/laravel-react-starter-kit
+- climactic/laravel-credits
+- danestves/laravel-polar
+- jacobbennett/stripe-test-token
+- jonpurvis/faker-stripe
+- laravel-payhere/laravel-payhere
+- laravel/cashier
+- laravel/cashier-mollie
+- laravel/cashier-paddle
+- lemonsqueezy/laravel
+- marvinlabs/laravel-luhn
+- musahmusah/laravel-multipayment-gateways
+- perafan/cashier-openpay
+- protonemedia/laravel-paddle
+- revoltify/subscriptionify
+- simonhamp/laravel-stripe-connect
+- square1/laravel-mpp
+- stephenjude/laravel-wallet
