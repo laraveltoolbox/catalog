@@ -1,7 +1,0 @@
-name: Gem Doc Viewers
-description: 
-projects:
-  - bdoc
-  - gembox
-  - imownbey/docbox
-  - jnewland/sinatra-rubygems

@@ -1,0 +1,14 @@
+name: SEO
+description: Sitemaps, metadata and everything else that helps search engines index
+  your site
+projects:
+- archtechx/laravel-seo
+- artesaos/seotools
+- code4mk/lara-head
+- honeystone/laravel-seo
+- hszope/laravel-aigeo
+- laravel/head
+- ralphjsmit/laravel-seo
+- saasykit/laravel-open-graphy
+- sirodiaz/laravel-redirection
+- spatie/laravel-sitemap

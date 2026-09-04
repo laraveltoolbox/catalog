@@ -3,15 +3,16 @@
 > affiliated with or endorsed by The Ruby Toolbox. See [NOTICE](./NOTICE) for details.
 > Please report issues with the upstream project upstream, not here.
 
-# Ruby Toolbox Catalog [![CI](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml)
+# Laravel Toolbox Catalog [![CI](https://github.com/laraveltoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/laraveltoolbox/catalog/actions/workflows/ci.yml)
 
-Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
+Welcome to the [Laravel Toolbox][laraveltoolbox] catalog!
 
-This repository contains the mapping of category groups, categories and ruby
-open source projects and is based on a database dump of [the old Ruby Toolbox
-site][issue-1].
+This repository contains the mapping of category groups, categories and Composer
+packages for Laravel. Its initial categorization is derived from the
+[Laravel Package Ocean][package-ocean] dataset (MIT, see [NOTICE](./NOTICE)) and is
+curated further here.
 
-You can find the current exported catalog at https://rubytoolbox.github.io/catalog
+You can find the current exported catalog at https://laraveltoolbox.github.io/catalog
 
 ## Catalog guidelines
 
@@ -22,7 +23,7 @@ You can find the current exported catalog at https://rubytoolbox.github.io/catal
   or new approaches to the same problem.
 * Categories should have at least 2 entries - if you cannot find an existing category
   for a library, that's fine, feel free to add one, but please find at least one other
-  gem that tries to solve the same problem
+  package that tries to solve the same problem
 
 ## Contributing
 
@@ -33,7 +34,7 @@ If you plan on bigger changes, please consider:
 
 * splitting your changes into multiple separate PRs to avoid merge conflicts
 * if your changes could need discussion, please create an
-  [issue on the main repo][rubytoolbox] up-front for further discussion.
+  [issue on the main repo][laraveltoolbox] up-front for further discussion.
 
 ## Structure
 
@@ -50,19 +51,23 @@ catalog/
   ...
 ```
 
-Each category group contains a `_meta.yml`, which currently only defines
-the `name` key, which should be the human display name of that category.
+Each category group contains a `_meta.yml`, which defines the `name` key (the human
+display name of the group) and an optional `description`.
 
 Each `category.yml` currently contains:
 
 * `name` (string, required): Human display name of the category name
 * `description` (string, optional): A (markdown-formatted) category description
 * `projects` (array of strings, required): The list of projects to list in
-  that category. For rubygems, this is the plain gem name, for github repos it's
-  the full repo slug (`github_user/repo_name`). Projects can be listed in multiple
+  that category. This is the full Composer package name including its vendor
+  prefix, e.g. `spatie/laravel-permission`. Packages can be listed in multiple
   categories.
+
+The test suite verifies that every referenced package actually exists on
+[packagist.org](https://packagist.org), so a typo or a renamed package fails the
+build rather than silently producing an empty entry on the site.
 
 ---
 
-[rubytoolbox]: https://www.github.com/rubytoolbox/rubytoolbox
-[issue-1]: https://www.github.com/rubytoolbox/rubytoolbox/issues/1
+[laraveltoolbox]: https://www.github.com/laraveltoolbox/laraveltoolbox
+[package-ocean]: https://github.com/HassanZahirnia/laravel-package-ocean

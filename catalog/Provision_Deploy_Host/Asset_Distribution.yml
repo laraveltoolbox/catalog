@@ -1,7 +1,0 @@
-name: Asset Distribution
-description: 
-projects:
-  - asset_hash
-  - asset_sync
-  - cloudfront_asset_host
-  - jammit-s3

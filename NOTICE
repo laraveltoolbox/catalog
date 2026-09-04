@@ -18,3 +18,13 @@ project, its maintainers, or its sponsors. Please do not direct support
 requests about this fork to the upstream project.
 
 Modifications made in this fork are likewise available under the MIT License.
+
+Third-party data
+----------------
+
+The category assignments in this catalog were initially derived from the
+Laravel Package Ocean dataset:
+
+  Source:     https://github.com/HassanZahirnia/laravel-package-ocean
+  License:    MIT
+  Copyright:  (c) 2023 Hassan Zahirnia

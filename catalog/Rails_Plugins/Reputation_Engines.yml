@@ -1,9 +1,0 @@
-name: Reputation Engines
-description: 
-projects:
-  - activerecord-reputation-system
-  - badginator
-  - honor
-  - merit
-  - recognition
-  - reputation

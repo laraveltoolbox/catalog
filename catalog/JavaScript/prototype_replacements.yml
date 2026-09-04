@@ -1,7 +1,0 @@
-name: Prototype Replacements
-description: 
-projects:
-  - CodeOfficer/jquery-ui-rails-helpers
-  - jrails
-  - right-rails
-  - rubaidh/yui_on_rails

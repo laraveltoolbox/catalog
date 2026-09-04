@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
 require "tempfile"
-require "rubygems"
-require "rubygems/remote_fetcher"
-require "rubygems/name_tuple"
+require "json"
+require "net/http"
 
 RSpec.describe Catalog do
   it "can be represented as_json" do
@@ -35,34 +34,30 @@ RSpec.describe Catalog do
     end
   end
 
-  describe "referenced rubygems" do
-    let(:published_gems) do
-      Gem::Source.new("https://rubygems.org")
-                 .load_specs(:latest)
-                 .map(&:name)
+  describe "referenced composer packages" do
+    # The full list of package names published on packagist, about 12 MB of JSON
+    let(:available_packages) do
+      response = Net::HTTP.get_response URI.parse("https://packagist.org/packages/list.json")
+      raise "Unexpected packagist response status #{response.code}" unless response.code == "200"
+
+      JSON.parse(response.body).fetch("packageNames").to_set(&:downcase)
     end
 
-    let(:prerelease_gems) do
-      Gem::Source.new("https://rubygems.org")
-                 .load_specs(:prerelease)
-                 .map(&:name)
-                 .uniq
-    end
-
-    let(:available_gems) do
-      published_gems | prerelease_gems
-    end
-
-    let(:referenced_gems) do
+    let(:referenced_packages) do
       described_class.new.as_json[:category_groups]
                      .flat_map { |group| group[:categories] }
                      .flat_map { |category| category["projects"] }
-                     .reject { |project| project.include? "/" } # drop github references
+                     .map(&:downcase)
                      .sort
+                     .uniq
     end
 
-    it "references only actually existing gems" do
-      expect(referenced_gems - available_gems).to eq []
+    it "references packages by their vendor-prefixed composer name" do
+      expect(referenced_packages.reject { |package| package.count("/") == 1 }).to eq []
+    end
+
+    it "references only packages that actually exist on packagist" do
+      expect(referenced_packages.reject { |package| available_packages.include?(package) }).to eq []
     end
   end
 end

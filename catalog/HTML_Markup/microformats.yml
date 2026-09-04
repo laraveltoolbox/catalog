@@ -1,7 +1,0 @@
-name: Microformats
-description: 
-projects:
-  - html-schema
-  - microformats_helper
-  - mofo
-  - schema_dot_org

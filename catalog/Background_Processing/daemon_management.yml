@@ -1,7 +1,0 @@
-name: Daemon Management
-description: Simplify the management of multiple processes
-projects:
-  - daemon-spawn
-  - daemon_controller
-  - foreman
-  - lunchy

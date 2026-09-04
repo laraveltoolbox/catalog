@@ -1,9 +1,0 @@
-name: Spam Detection
-description: 
-projects:
-  - akismetor
-  - defender
-  - defensio/defensio-ruby
-  - mattapayne/rdefensio
-  - rakismet
-  - viking

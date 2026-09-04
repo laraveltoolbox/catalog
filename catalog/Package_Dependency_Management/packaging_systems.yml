@@ -1,9 +1,0 @@
-name: Packaging Systems
-description: 
-projects:
-  - anatol/quarry
-  - mislav/coral
-  - rip
-  - rtomayko/rpg
-  - rubygems-update
-  - slimgems

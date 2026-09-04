@@ -1,8 +1,0 @@
-name: ActiveRecord without Rails
-description:
-  Projects that help in using ActiveRecord outside of a Rails project.
-projects:
-  - active_record_migrations
-  - otr-activerecord
-  - sinatra-activerecord
-  - standalone_migrations

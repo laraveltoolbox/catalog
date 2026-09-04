@@ -6,6 +6,10 @@ on:
     types:
       - completed
 
+# Required by the deploy action to push the built catalog to the gh-pages branch
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -17,7 +21,7 @@ jobs:
       fail-fast: false
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
@@ -26,10 +30,9 @@ jobs:
       run: bundle exec rake export
 
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: build # The folder the action should deploy.
-        CLEAN: true # Automatically remove deleted files from the deploy branch
-        PRESERVE: true # Preserves and restores the workspace prior to deployment.
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages # The branch the action should deploy to.
+        folder: build # The folder the action should deploy.
+        clean: true # Automatically remove deleted files from the deploy branch

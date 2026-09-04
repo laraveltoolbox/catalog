@@ -1,5 +1,0 @@
-name: Rails Money, Currencies, Exchange Rates
-description:
-projects:
-  - acts_as_account
-  - money-rails
