@@ -1,0 +1,14 @@
+name: Eloquent Extensions
+description: Traits and behaviours that extend what a model can do out of the box
+projects:
+- bkwld/cloner
+- eg-mohamed/notable
+- envant/fireable
+- esensi/model
+- javoscript/laravel-macroable-models
+- kirkbushell/eloquence
+- lecturize/laravel-addresses
+- maize-tech/laravel-excludable
+- masterix21/laravel-addressable
+- monooso/unobserve
+- sfolador/laravel-locked

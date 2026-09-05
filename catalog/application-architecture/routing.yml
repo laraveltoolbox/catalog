@@ -1,0 +1,7 @@
+name: Routing
+description: Registering, discovering and binding routes
+projects:
+- izniburak/laravel-auto-routes
+- laravel/folio
+- laravelba/route-binder
+- spatie/laravel-route-discovery

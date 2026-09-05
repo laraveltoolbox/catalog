@@ -1,0 +1,8 @@
+name: Email Authoring & Preview
+description: Writing, editing and previewing mailables
+projects:
+- joggapp/laravel-mail-viewer
+- qoraiche/laravel-mail-editor
+- spatie/laravel-mail-preview
+- spatie/mjml-php
+- xammie/mailbook

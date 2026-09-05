@@ -1,0 +1,12 @@
+name: Auditing & Versioning
+description: Revision histories, drafts and change logs for model data
+projects:
+- infinitypaul/laravel-dynamodb-auditing
+- oddvalue/laravel-drafts
+- orisintel/laravel-process-stamps
+- overtrue/laravel-versionable
+- owen-it/laravel-auditing
+- romalytar/yammi-audit-log-laravel
+- rs/laravel-version-control
+- venturecraft/revisionable
+- wildside/userstamps

@@ -1,0 +1,6 @@
+name: Rich Text Editors
+description: Trix, Gutenberg and other WYSIWYG editors
+projects:
+- te7a-houdini/laravel-trix
+- tonysm/rich-text-laravel
+- van-ons/laraberg

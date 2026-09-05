@@ -1,0 +1,8 @@
+name: Document Conversion
+description: Converting and parsing documents between formats
+projects:
+- blaspsoft/doxswap
+- cdsmths/laravel-ocr-space
+- paperdoc-dev/paperdoc-lib
+- robbiep/cloudconvert-laravel
+- shipfastlabs/parsel

@@ -1,0 +1,9 @@
+name: Inertia & SPA Bridges
+description: Server-driven single page applications
+projects:
+- ambengers/kinetic
+- based/momentum-modal
+- hotmeteor/inertia-statamic
+- hybridly/laravel
+- inertiajs/inertia-laravel
+- robertboes/inertia-breadcrumbs

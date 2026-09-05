@@ -1,0 +1,16 @@
+name: Database Tooling
+description: Inspecting schemas, tracing queries and auditing database structure
+projects:
+- albertoarena/laravel-truss
+- cerbero/eloquent-inspector
+- dietercoopman/laravel-showsql
+- dragon-code/migrate-db
+- fitztrev/query-tracer
+- halilcosdu/laravel-slower
+- mtolhuys/laravel-schematics
+- recca0120/laravel-erd
+- spatie/laravel-model-info
+- spatie/laravel-sql-commenter
+- tpetry/laravel-mysql-explain
+- vcian/laravel-db-auditor
+- watheqalshowaiter/model-fields

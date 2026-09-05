@@ -1,0 +1,7 @@
+name: Translatable Models
+description: Storing translated content on Eloquent models
+projects:
+- astrotomic/laravel-translatable
+- omaralalwi/lexi-translate
+- osama-98/laravel-enum-translatable
+- spatie/laravel-translatable

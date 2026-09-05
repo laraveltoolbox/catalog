@@ -1,0 +1,16 @@
+name: Caching
+description: Caching responses, pages and anything else worth keeping around
+projects:
+- abr4xas/cache-ui-laravel
+- appstract/laravel-opcache
+- asanikovich/laravel-roadrunner-cache
+- dragon-code/laravel-cache
+- iazaran/smart-cache
+- laragear/preload
+- nexxai/laravel-cfcache
+- ryangjchandler/blade-cache-directive
+- silber/page-cache
+- spatie/laravel-responsecache
+- spatie/once
+- vectorial1024/laravel-cache-evict
+- yediyuz/laravel-cloudflare-cache

@@ -1,0 +1,21 @@
+name: Query Builders & Filters
+description: Building, filtering and sorting queries, often straight from request input
+projects:
+- abbasudo/laravel-purity
+- anourvalar/eloquent-serialize
+- indexzer0/eloquent-filtering
+- jerome/filterable
+- kettasoft/filterable
+- kirschbaum-development/eloquent-power-joins
+- l3aro/pipeline-query-collection
+- lacodix/laravel-model-filter
+- laracraft-tech/laravel-date-scopes
+- lorisleiva/laravel-search-string
+- mehdi-fathi/eloquent-filter
+- omar-elnaghy/laradate-filters
+- pricecurrent/laravel-eloquent-filters
+- sbamtr/laravel-query-enrich
+- spatie/laravel-query-builder
+- staudenmeir/laravel-cte
+- tpetry/laravel-query-expressions
+- tucker-eric/eloquentfilter

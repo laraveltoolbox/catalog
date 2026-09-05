@@ -1,0 +1,9 @@
+name: Ratings & Reactions
+description: Stars, likes, reactions and reviews
+projects:
+- binafy/laravel-reactions
+- cjmellor/rating
+- codebyray/laravel-review-rateable
+- cybercog/laravel-love
+- maize-tech/laravel-markable
+- willvincent/laravel-rateable

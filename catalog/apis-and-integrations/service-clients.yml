@@ -1,0 +1,17 @@
+name: Third-Party Service Clients
+description: Wrappers around individual SaaS and public APIs
+projects:
+- andreia/php-sdk-dolby-api
+- cyberduck/laravel-wp-api
+- fiveam-code/laravel-notion-api
+- github-php/sponsors
+- graham-campbell/github
+- joelbutcher/laravel-facebook-graph
+- johnpaulmedina/laravel-usps
+- needlaravelsite/tikapi-php
+- openfoodfacts/openfoodfacts-laravel
+- saeedvir/supabase
+- signifly/laravel-shopify
+- slvler/cuttly
+- spatie/laravel-google-calendar
+- xchimx/laravel-unsplash

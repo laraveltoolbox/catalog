@@ -1,0 +1,10 @@
+name: API Authentication
+description: Tokens, OAuth servers and JWTs for API clients
+projects:
+- juststeveking/laravel-bastion
+- laravel/passport
+- laravel/sanctum
+- lcobucci/jwt
+- lucadegasperi/oauth2-server-laravel
+- stechstudio/laravel-jwt
+- tymon/jwt-auth

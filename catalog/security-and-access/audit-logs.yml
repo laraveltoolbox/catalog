@@ -1,0 +1,10 @@
+name: Activity Logs
+description: Recording what users did and when
+projects:
+- binafy/laravel-user-monitoring
+- haruncpi/laravel-user-activity
+- iamfarhad/laravel-audit-log
+- laravel-chronicle/core
+- rappasoft/laravel-authentication-log
+- spatie/activitylog
+- spatie/laravel-activitylog

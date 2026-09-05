@@ -1,0 +1,10 @@
+name: Spreadsheets & CSV
+description: Reading and writing Excel, CSV and other tabular files
+projects:
+- anourvalar/office
+- glhd/linen
+- maatwebsite/excel
+- phpoffice/phpspreadsheet
+- rap2hpoutre/fast-excel
+- usmanhalalit/laracsv
+- zappzerapp/laravel-ingest

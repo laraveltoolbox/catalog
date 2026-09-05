@@ -1,0 +1,10 @@
+name: JSON, XML & Serialization
+description: Reading and writing structured data formats
+projects:
+- cerbero/json-parser
+- cerbero/lazy-json-pages
+- eastwest/json
+- mischasigtermans/laravel-toon
+- noki/laravel-xml-converter
+- rodenastyle/stream-parser
+- saloonphp/xml-wrangler

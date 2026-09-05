@@ -1,0 +1,7 @@
+name: IDE Integration
+description: Autocompletion, doc blocks and editor tooling
+projects:
+- ahuggins/open-on-make
+- barryvdh/laravel-ide-helper
+- devdojo/refine
+- stevebauman/autodoc-facades

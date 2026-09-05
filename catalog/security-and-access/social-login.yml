@@ -1,0 +1,9 @@
+name: Social Login
+description: Authenticating through third-party OAuth providers
+projects:
+- adamwathan/eloquent-oauth
+- blaspsoft/socialiteplus
+- directorytree/bartender
+- joelbutcher/socialstream
+- laravel/socialite
+- mikebronner/laravel-sign-in-with-apple

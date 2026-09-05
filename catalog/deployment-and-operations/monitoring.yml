@@ -1,0 +1,26 @@
+name: Monitoring & Health
+description: Uptime, health checks, metrics and application performance monitoring
+projects:
+- aaronfrancis/pulse-outdated
+- anousss007/vigilance
+- beyondcode/laravel-self-diagnosis
+- devifyo/watchtower
+- dyrynda/laravel-defibrillator
+- ericmakesstuff/laravel-server-monitor
+- inspector-apm/inspector-laravel
+- jackwh/laravel-new-relic
+- laraotel/opentelemetry-laravel
+- laraowl/laraowl
+- laravel/doctor
+- laravel/pulse
+- leventcz/laravel-top
+- lkaemmerling/laravel-horizon-prometheus-exporter
+- mohsenabrishami/stethoscope
+- pragmarx/health
+- robertogallea/pulse-api
+- spatie/laravel-health
+- spatie/laravel-prometheus
+- spatie/laravel-server-monitor
+- spatie/laravel-uptime-monitor
+- timacdonald/pulse-validation-errors
+- vcian/pulse-active-sessions

@@ -1,0 +1,6 @@
+name: QR Codes & Passes
+description: Generating QR codes and mobile wallet passes
+projects:
+- byte5/laravel-passgenerator
+- simplesoftwareio/simple-qrcode
+- spatie/laravel-mobile-pass

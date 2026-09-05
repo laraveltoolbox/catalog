@@ -1,0 +1,13 @@
+name: Web Analytics
+description: Tracking visits, page views and requests
+projects:
+- abr4xas/clarity-laravel
+- awssat/laravel-visits
+- bilfeldt/laravel-route-statistics
+- coderflexx/laravisit
+- cyrildewit/eloquent-viewable
+- kerkness/fa-wired
+- mateffy/pan-analytics-viewer
+- me-shaon/laravel-request-analytics
+- panphp/pan
+- spatie/laravel-analytics

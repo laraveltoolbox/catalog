@@ -1,0 +1,14 @@
+name: Email Delivery
+description: Mail drivers, transactional providers and delivery tracking
+projects:
+- ashallendesign/email-utilities
+- backstage/laravel-mails
+- binarcode/laravel-mailator
+- coconutcraig/laravel-postmark
+- dietercoopman/mailspfchecker
+- innoge/laravel-msgraph-mail
+- mailcarrier/mailcarrier
+- pod-point/laravel-mail-export
+- resend/resend-laravel
+- s-ichikawa/laravel-sendgrid-driver
+- wnx/laravel-sends

@@ -1,0 +1,9 @@
+name: Markdown
+description: Parsing and rendering Markdown
+projects:
+- calebporzio/gitdown
+- graham-campbell/markdown
+- league/html-to-markdown
+- maxxscho/laravel-markdown-plus
+- spatie/filament-markdown-editor
+- spatie/laravel-markdown

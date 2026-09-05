@@ -1,0 +1,15 @@
+name: Deployment
+description: Deploying releases and running deploy-time tasks
+projects:
+- ajaxray/laravel-server-sync
+- deployer/deployer
+- dragon-code/laravel-actions
+- dragon-code/laravel-deploy-operations
+- hammerstone/airdrop
+- justpark/envoyer-deploy
+- juststeveking/laravel-envoyer-sdk
+- laravel/envoy
+- salahhusa9/laravel-updater
+- sammyjo20/lasso
+- timokoerber/laravel-one-time-operations
+- wilbergroup/airdrop

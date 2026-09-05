@@ -1,0 +1,10 @@
+name: Package Development
+description: Building, publishing and maintaining Composer packages
+projects:
+- aniftyco/skeletor
+- consoletvs/bootpack
+- cpx/cpx
+- encoredigitalgroup/heimdall
+- leek/laravel-vendor-cleanup
+- phlak/semver
+- spatie/laravel-package-tools

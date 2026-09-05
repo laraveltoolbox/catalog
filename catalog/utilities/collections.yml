@@ -1,0 +1,11 @@
+name: Collections & Macros
+description: Collections, pipelines and general PHP building blocks
+projects:
+- azjezz/psl
+- mtownsend/progress
+- omarchouman/lara-util-x
+- sebastiaanluca/php-pipe-operator
+- spatie/laravel-collection-macros
+- spatie/piper
+- surgiie/transformer
+- tightenco/collect

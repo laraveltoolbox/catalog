@@ -1,0 +1,13 @@
+name: JavaScript Integration
+description: Sharing routes, types and data with the JavaScript side
+projects:
+- based/laravel-typescript
+- based/momentum-trail
+- coderello/laravel-shared-data
+- laravel/wayfinder
+- mariuzzo/laravel-js-localization
+- scrumble-nl/laravel-model-ts-type
+- spatie/laravel-blade-javascript
+- spatie/laravel-server-side-rendering
+- spatie/typescript-transformer
+- tightenco/ziggy

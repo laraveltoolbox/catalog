@@ -1,0 +1,8 @@
+name: Query Caching
+description: Caching the results of Eloquent queries and models
+projects:
+- genealabs/laravel-model-caching
+- laragear/cache-query
+- mike-bronner/laravel-model-caching
+- mostafaznv/laracache
+- rennokki/laravel-eloquent-query-cache

@@ -1,0 +1,13 @@
+name: Privacy & GDPR
+description: Cookie consent, data redaction and personal data exports
+projects:
+- ashallendesign/redactable-models
+- devrabiul/laravel-cookie-consent
+- fuko-php/masked
+- mtownsend/array-redactor
+- scify/laravel-cookie-guard
+- soved/laravel-gdpr
+- spatie/laravel-cookie-consent
+- spatie/laravel-personal-data-export
+- whitecube/laravel-cookie-consent
+- yorcreative/laravel-scrubber

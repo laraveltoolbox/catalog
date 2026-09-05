@@ -1,0 +1,8 @@
+name: Rate Limiting & Locking
+description: Throttling, cooldowns, quotas and application-level locks
+projects:
+- danharrin/livewire-rate-limiting
+- graham-campbell/throttle
+- zaber-dev/laravel-cooldown
+- zaber-dev/laravel-lock
+- zaber-dev/laravel-quota

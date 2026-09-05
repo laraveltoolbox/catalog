@@ -1,0 +1,7 @@
+name: Browser Testing
+description: Driving a real browser against the application
+projects:
+- laracasts/cypress
+- laracasts/integrated
+- laravel/dusk
+- web-id/laravel-playwright

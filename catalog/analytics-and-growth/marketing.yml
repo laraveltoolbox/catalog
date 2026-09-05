@@ -1,0 +1,9 @@
+name: Marketing & Growth
+description: Newsletters, waitlists, onboarding, referrers and social proof
+projects:
+- 5balloons/laravel-smart-ads
+- bndwgn/laravel-bandwagon
+- offload-project/laravel-waitlist
+- spatie/laravel-newsletter
+- spatie/laravel-onboard
+- spatie/laravel-referer

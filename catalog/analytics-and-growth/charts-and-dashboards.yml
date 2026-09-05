@@ -1,0 +1,10 @@
+name: Charts & Dashboards
+description: Visualising application data in charts and dashboards
+projects:
+- chartello/chartello
+- consoletvs/charts
+- directorytree/metrics
+- jhumanj/laravel-model-stats
+- maantje/charts
+- sakanjo/laravel-easy-metrics
+- spatie/laravel-stats

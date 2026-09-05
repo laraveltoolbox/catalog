@@ -1,0 +1,13 @@
+name: Admin Panels
+description: Filament, Nova, Backpack and other back-office toolkits
+projects:
+- achyutn/filament-storage-monitor
+- backpack/crud
+- code16/sharp
+- filament/filament
+- jeffersongoncalves/filament-qrcode-field
+- kirschbaum-development/nova-inline-select
+- laravel/nova-log-viewer
+- mokhosh/filament-kanban
+- moonshine/moonshine
+- orchid/platform

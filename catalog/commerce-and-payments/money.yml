@@ -1,0 +1,11 @@
+name: Money & Currency
+description: Monetary values, formatting and exchange rates
+projects:
+- akaunting/laravel-money
+- amrshawky/laravel-currency
+- ashallendesign/laravel-exchange-rates
+- brick/money
+- cknow/laravel-money
+- moneyphp/money
+- torann/currency
+- whitecube/php-prices

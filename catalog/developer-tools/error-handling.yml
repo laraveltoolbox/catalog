@@ -1,0 +1,9 @@
+name: Error Handling
+description: Reporting exceptions and making failures easier to understand
+projects:
+- cerbero/notifiable-exception
+- hammerstone/flaky
+- nunomaduro/collision
+- spatie/laravel-error-share
+- spatie/laravel-error-solutions
+- tylercd100/lern

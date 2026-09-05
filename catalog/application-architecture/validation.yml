@@ -1,0 +1,17 @@
+name: Validation
+description: Extra validation rules and ways to compose them
+projects:
+- axlon/laravel-postal-code-validation
+- craftlogan/laravel-overflow
+- intervention/validation
+- krzysztofrewak/laravel-oop-validator
+- laracraft-tech/laravel-schema-rules
+- laragear/rut
+- maize-tech/laravel-email-domain-rule
+- milwad/laravel-validate
+- propaganistas/laravel-phone
+- sandermuller/laravel-fluent-validation
+- spatie/laravel-validation-rules
+- square/laravel-hyrule
+- theriddleofenigma/laravel-model-validation
+- touhidurabir/laravel-model-sanitize

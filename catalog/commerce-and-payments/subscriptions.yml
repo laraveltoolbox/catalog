@@ -1,0 +1,11 @@
+name: Subscriptions & Licensing
+description: Recurring billing, plans, entitlements and licences
+projects:
+- laravel/cashier
+- laravel/cashier-mollie
+- laravel/cashier-paddle
+- lucasdotvin/laravel-soulbscription
+- masterix21/laravel-entitlements
+- masterix21/laravel-licensing
+- perafan/cashier-openpay
+- revoltify/subscriptionify

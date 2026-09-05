@@ -1,0 +1,6 @@
+name: Message Brokers
+description: Talking to Kafka, RabbitMQ and other brokers
+projects:
+- mateusjunges/laravel-kafka
+- usmonaliyev/laravel-simple-rabbitmq
+- vladimir-yuldashev/laravel-queue-rabbitmq

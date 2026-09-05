@@ -1,0 +1,6 @@
+name: Invitations
+description: Invite codes and invite-only sign-ups
+projects:
+- clarkeash/doorman
+- mateusjunges/laravel-invite-codes
+- offload-project/laravel-invite-only

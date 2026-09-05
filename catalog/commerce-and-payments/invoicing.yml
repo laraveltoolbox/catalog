@@ -1,0 +1,5 @@
+name: Invoicing & Tax
+description: Invoices, VAT and tax calculation
+projects:
+- laraveldaily/laravel-invoices
+- mpociot/vat-calculator

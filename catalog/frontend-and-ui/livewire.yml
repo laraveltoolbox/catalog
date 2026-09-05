@@ -1,0 +1,12 @@
+name: Livewire
+description: Livewire itself and the components built around it
+projects:
+- asantibanez/livewire-calendar
+- drpshtiwan/livewire-async-select
+- ijpatricio/mingle
+- livewire/livewire
+- livewire/volt
+- mrfelipemartins/wirebones
+- wendelladriel/slidewire
+- wire-elements/spotlight
+- wire-elements/wire-extender

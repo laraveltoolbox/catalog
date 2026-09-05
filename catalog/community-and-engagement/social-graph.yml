@@ -1,0 +1,6 @@
+name: Followers & Friendships
+description: Following, friending and blocking between users
+projects:
+- cjmellor/blockade
+- multicaret/laravel-acquaintances
+- rennokki/befriended

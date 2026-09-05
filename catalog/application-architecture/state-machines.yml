@@ -1,0 +1,10 @@
+name: State Machines & Approvals
+description: Model states, status transitions and approval flows
+projects:
+- asantibanez/laravel-eloquent-state-machines
+- cjmellor/approval
+- makeabledk/laravel-eloquent-status
+- ringlesoft/laravel-process-approval
+- spatie/laravel-model-states
+- spatie/laravel-model-status
+- thefeqy/laravel-model-status

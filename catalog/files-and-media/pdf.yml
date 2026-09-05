@@ -1,0 +1,11 @@
+name: PDF Generation
+description: Creating, optimising and printing PDF documents
+projects:
+- barryvdh/laravel-dompdf
+- barryvdh/laravel-snappy
+- creagia/laravel-sign-pad
+- knplabs/knp-snappy
+- mostafaznv/pdf-optimizer
+- omaralalwi/gpdf
+- rawilk/laravel-printing
+- spatie/laravel-pdf

@@ -1,0 +1,7 @@
+name: Localized Routing
+description: Locale detection and routes per language
+projects:
+- chinleung/laravel-multilingual-routes
+- codezero/laravel-localized-routes
+- codezero/laravel-localizer
+- mcamara/laravel-localization

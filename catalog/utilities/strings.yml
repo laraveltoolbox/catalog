@@ -1,0 +1,14 @@
+name: Strings & Text
+description: Formatting, transforming and inspecting text
+projects:
+- blaspsoft/onym
+- colinodell/indentation
+- hotmeteor/regex
+- koenhendriks/laravel-str-acronym
+- michael-rubel/laravel-formatters
+- mpstenson/laravel-advanced-string
+- phlak/splat
+- stevebauman/hypertext
+- still-code/ar-php-laravel
+- tigitz/php-spellchecker
+- tomloprod/colority

@@ -1,0 +1,11 @@
+name: Factories & Test Data
+description: Generating models and fake data for tests
+projects:
+- coderello/laravel-populated-factory
+- directorytree/dummy
+- jacobbennett/stripe-test-token
+- jonpurvis/faker-stripe
+- jpcaparas/laravel-faker-openai
+- lukeraymonddowning/poser
+- mpociot/laravel-test-factory-helper
+- worksome/request-factories

@@ -1,0 +1,13 @@
+name: SMS & Push
+description: Text messages and push notifications to devices
+projects:
+- devkandil/notifire
+- itxshakil/laravel-fast2sms
+- kutia-software-company/larafirebase
+- laravel-notification-channels/pusher-push-notifications
+- laravel-notification-channels/webpush
+- laravel/vonage-notification-channel
+- michal78/laravel-sms-catcher
+- sly/notification-pusher
+- syntech/syntechfcm
+- tzsk/sms

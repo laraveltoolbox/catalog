@@ -1,0 +1,9 @@
+name: File Storage
+description: Filesystem abstractions, drivers and storage helpers
+projects:
+- dietercoopman/smart
+- league/flysystem
+- maxkhim/laravel-storage-dedupler
+- spatie/temporary-directory
+- stechstudio/laravel-zipstream
+- vormkracht10/flysystem-uploadcare

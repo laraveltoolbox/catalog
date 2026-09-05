@@ -1,0 +1,14 @@
+name: Model Relationships
+description: Additional relationship types and shortcuts for related records
+projects:
+- awobaz/compoships
+- biiiiiigmonster/hasin
+- calebporzio/parental
+- chelout/laravel-relationship-events
+- mr-punyapal/laravel-extended-relationships
+- sowailem/ownable
+- staudenmeir/belongs-to-through
+- staudenmeir/eloquent-has-many-deep
+- staudenmeir/eloquent-json-relations
+- staudenmeir/laravel-adjacency-list
+- tightenco/parental

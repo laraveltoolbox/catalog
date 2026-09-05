@@ -1,0 +1,15 @@
+name: Data & Value Objects
+description: Data transfer objects, value objects and typed data structures
+projects:
+- beacon-hq/bag
+- darsyn/ip
+- datacreativa/laravel-presentable
+- juststeveking/resume-php
+- michael-rubel/laravel-value-objects
+- spatie/data-transfer-object
+- spatie/laravel-data
+- spatie/laravel-view-models
+- strictus/strictus
+- wendelladriel/laravel-validated-dto
+- yorcreative/laravel-argonaut-dto
+- zero-to-prod/data-model

@@ -1,0 +1,8 @@
+name: Static Site Generators
+description: Turning a Laravel app or Markdown files into a static site
+projects:
+- benbjurstrom/prezet
+- hyde/hyde
+- spatie/laravel-export
+- spatie/sheets
+- tightenco/jigsaw

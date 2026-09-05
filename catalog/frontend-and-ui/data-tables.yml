@@ -1,0 +1,8 @@
+name: Data Tables
+description: Sortable, filterable tables driven by Eloquent
+projects:
+- freshbitsweb/laratables
+- power-components/livewire-powergrid
+- ramonrietdijk/livewire-tables
+- rappasoft/laravel-livewire-tables
+- yajra/laravel-datatables-oracle

@@ -1,0 +1,10 @@
+name: Multi-Tenancy
+description: Serving multiple tenants from a single application
+projects:
+- gecche/laravel-multidomain
+- orchestra/tenanti
+- romegadigital/multitenancy-nova-tool
+- spatie/laravel-multitenancy
+- sprout/sprout
+- stancl/tenancy
+- tenancy/tenancy

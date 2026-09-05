@@ -1,0 +1,6 @@
+name: Hotwire & htmx
+description: Bringing Turbo and htmx conventions to Laravel
+projects:
+- hotwired-laravel/turbo-laravel
+- hotwired/turbo-laravel
+- mauricius/laravel-htmx

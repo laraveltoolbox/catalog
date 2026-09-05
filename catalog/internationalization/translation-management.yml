@@ -1,0 +1,19 @@
+name: Translation Management
+description: Finding, editing and syncing translation strings
+projects:
+- amirami/localizator
+- bottelet/translation-checker
+- edulazaro/laratext
+- elegantly/laravel-translator
+- jayesh/laravel-gemini-translator
+- kargnas/laravel-ai-translator
+- kg-bot/laravel-localization-to-vue
+- larswiegers/laravel-translations-checker
+- maestroerror/html-strings-affixer
+- nikaia/translation-sheet
+- outhebox/laravel-translations
+- spatie/laravel-translation-loader
+- tanmuhittin/laravel-google-translate
+- themsaid/laravel-langman
+- tio/laravel
+- vemcogroup/laravel-translation
