@@ -2,8 +2,10 @@ name: File Uploads
 description: Handling uploads, including chunked and resumable ones
 projects:
 - ahmed-aliraqi/laravel-media-uploader
+- barryvdh/laravel-elfinder
 - kalynasolutions/laravel-tus
 - mohamedgaldi/vilt-filepond
 - pion/laravel-chunk-upload
 - rahulhaque/laravel-filepond
 - spatie/livewire-filepond
+- unisharp/laravel-filemanager

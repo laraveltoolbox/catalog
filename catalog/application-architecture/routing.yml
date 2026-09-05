@@ -1,7 +1,10 @@
 name: Routing
 description: Registering, discovering and binding routes
 projects:
+- hieu-le/active
 - izniburak/laravel-auto-routes
 - laravel/folio
 - laravelba/route-binder
+- spatie/laravel-route-attributes
 - spatie/laravel-route-discovery
+- watson/active

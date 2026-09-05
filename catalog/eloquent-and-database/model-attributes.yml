@@ -10,6 +10,7 @@ projects:
 - sebastiaanluca/laravel-boolean-dates
 - spatie/laravel-model-flags
 - spatie/laravel-schemaless-attributes
+- stancl/virtualcolumn
 - vildanbina/laravel-model-json
 - vkovic/laravel-custom-casts
 - waad/laravel-model-metadata

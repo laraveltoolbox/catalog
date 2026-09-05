@@ -5,6 +5,7 @@ projects:
 - coderello/laravel-proximage
 - daikazu/laravel-glider
 - intervention/image
+- intervention/image-laravel
 - maestroerror/php-heic-to-jpg
 - qcod/laravel-imageup
 - spatie/browsershot

@@ -4,9 +4,12 @@ projects:
 - asantibanez/livewire-calendar
 - drpshtiwan/livewire-async-select
 - ijpatricio/mingle
+- livewire/blaze
 - livewire/livewire
 - livewire/volt
+- magewirephp/magewire
 - mrfelipemartins/wirebones
+- spatie/laravel-livewire-wizard
 - wendelladriel/slidewire
 - wire-elements/spotlight
 - wire-elements/wire-extender

@@ -3,9 +3,17 @@ description: Directives, filters and tooling for the template engine
 projects:
 - appstract/laravel-blade-directives
 - aqua/blade-emerald
+- arcanedev/php-html
+- arrilot/laravel-widgets
 - bitpress/blade-extensions
 - conedevelopment/blade-filters
 - fortephp/forte
+- laracasts/presenter
+- mccool/laravel-auto-presenter
+- rcrowe/twigbridge
+- ryangjchandler/blade-capture-directive
+- stillat/blade-parser
 - stillat/dagger
 - surgiie/blade-cli
 - tehwave/laravel-shortcodes
+- wpb/string-blade-compiler

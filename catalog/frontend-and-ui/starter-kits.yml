@@ -3,11 +3,13 @@ description: Application skeletons and frontend presets to start from
 projects:
 - chargebee/laravel-react-starter-kit
 - devdojo/genesis
+- jeffgreco13/filament-breezy
 - jkque/laravel-nuxt-ui-starter-kit
 - laravel-frontend-presets/tall
 - laravel/jetstream
 - laravel/laravel
 - laravel/svelte-starter-kit
+- laravel/ui
 - laraveldaily/starter-kit
 - laravelnews/laravel-twbs4
 - lunarphp/livewire-starter-kit

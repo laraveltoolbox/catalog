@@ -1,6 +1,7 @@
 name: Subscriptions & Licensing
 description: Recurring billing, plans, entitlements and licences
 projects:
+- imdhemy/laravel-purchases
 - laravel/cashier
 - laravel/cashier-mollie
 - laravel/cashier-paddle

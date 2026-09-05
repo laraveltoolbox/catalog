@@ -3,6 +3,7 @@ description: Debug bars, dumpers and request inspectors
 projects:
 - ajthinking/tinx
 - barryvdh/laravel-debugbar
+- beyondcode/laravel-dump-server
 - beyondcode/laravel-tinker-server
 - beyondcode/laravel-view-xray
 - davestewart/sketchpad
@@ -12,7 +13,9 @@ projects:
 - glhd/laravel-dumper
 - grazulex/laravel-devtoolbox
 - itsgoingd/clockwork
+- lanin/laravel-api-debugger
 - laradumps/laradumps
+- laradumps/laradumps-core
 - laramint/laravel-brain
 - laravel/telescope
 - lubusin/laravel-decomposer
@@ -21,6 +24,7 @@ projects:
 - spatie/laravel-blade-comments
 - spatie/laravel-ray
 - spatie/laravel-web-tinker
+- spatie/ray
 - stechstudio/phpinfo
 - wire-elements/wire-spy
 - wulfheart/pretty_routes

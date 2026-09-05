@@ -5,6 +5,12 @@ projects:
 - consoletvs/bootpack
 - cpx/cpx
 - encoredigitalgroup/heimdall
+- laragear/meta
+- laragear/meta-model
 - leek/laravel-vendor-cleanup
+- nova-kit/nova-packages-tool
+- orchestra/sidekick
+- orchestra/workbench
 - phlak/semver
+- shalvah/upgrader
 - spatie/laravel-package-tools

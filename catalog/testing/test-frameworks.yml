@@ -1,6 +1,8 @@
 name: Test Frameworks
 description: Running the test suite itself
 projects:
+- codeception/module-laravel
 - milroyfraser/pest-plugin-gwt
 - orchestra/testbench
 - pestphp/pest
+- pestphp/pest-plugin-laravel

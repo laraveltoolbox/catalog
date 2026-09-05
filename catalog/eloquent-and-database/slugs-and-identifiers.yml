@@ -2,7 +2,10 @@ name: Slugs & Model Identifiers
 description: Readable, obfuscated or self-healing identifiers for models
 projects:
 - cviebrock/eloquent-sluggable
+- dyrynda/laravel-efficient-uuid
+- dyrynda/laravel-model-uuid
 - eg-mohamed/referenceable
+- goldspecdigital/laravel-eloquent-uuid
 - lukeraymonddowning/self-healing-urls
 - mtvs/eloquent-hashids
 - nunomaduro/laravel-sluggable

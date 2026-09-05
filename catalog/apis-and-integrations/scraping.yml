@@ -4,3 +4,4 @@ projects:
 - ferdiunal/larapanda
 - roach-php/laravel
 - spatie/crawler
+- weidner/goutte

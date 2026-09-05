@@ -1,11 +1,16 @@
 name: Forms & Form Builders
 description: Building, rendering and hardening HTML forms
 projects:
+- adamwathan/form
+- anahkiasen/former
 - genealabs/laravel-caffeine
 - glhd/aire
+- kris/laravel-form-builder
 - lara-zeus/bolt
 - laragear/poke
 - laravel-arcanist/arcanist
+- laravelcollective/html
+- malzariey/filament-daterangepicker-filter
 - metalogico/laravel-formello
 - proengsoft/laravel-jsvalidation
 - spatie/laravel-html

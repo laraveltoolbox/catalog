@@ -6,6 +6,7 @@ projects:
 - bilfeldt/laravel-route-statistics
 - coderflexx/laravisit
 - cyrildewit/eloquent-viewable
+- irazasyed/laravel-gamp
 - kerkness/fa-wired
 - mateffy/pan-analytics-viewer
 - me-shaon/laravel-request-analytics

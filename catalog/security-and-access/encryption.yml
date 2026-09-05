@@ -5,5 +5,6 @@ projects:
 - beyondcode/laravel-credentials
 - ercsctt/laravel-file-encryption
 - jacknoordhuis/laravel-database-hashing
+- mikemclin/laravel-wp-password
 - spatie/crypto
 - spatie/laravel-ciphersweet

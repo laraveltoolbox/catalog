@@ -6,8 +6,10 @@ projects:
 - dietercoopman/laravel-showsql
 - dragon-code/migrate-db
 - fitztrev/query-tracer
+- fntneves/laravel-transactional-events
 - halilcosdu/laravel-slower
 - mtolhuys/laravel-schematics
+- orchestra/database
 - recca0120/laravel-erd
 - spatie/laravel-model-info
 - spatie/laravel-sql-commenter

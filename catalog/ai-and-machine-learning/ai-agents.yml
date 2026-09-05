@@ -4,11 +4,14 @@ projects:
 - chimit/prompt
 - jordandalton/laravel-tackle
 - joshembling/laragenie
+- laravel/boost
+- laravel/mcp
 - maestroerror/laragent
 - mateffy/laravel-codebase-mcp
 - mateffy/laravel-introspect
 - mischasigtermans/laravel-altitude
 - mrpunyapal/laravel-auditor
+- neuron-core/neuron-ai
 - neuron-core/neuron-laravel
 - php-mcp/server
 - promptphp/intercept

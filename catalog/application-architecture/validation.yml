@@ -3,15 +3,25 @@ description: Extra validation rules and ways to compose them
 projects:
 - axlon/laravel-postal-code-validation
 - craftlogan/laravel-overflow
+- crazybooot/base64-validation
+- elegantweb/sanitizer
+- felixkiss/uniquewith-validator
 - intervention/validation
 - krzysztofrewak/laravel-oop-validator
 - laracraft-tech/laravel-schema-rules
 - laragear/rut
+- laravel-validation-rules/credit-card
+- laravellegends/pt-br-validator
 - maize-tech/laravel-email-domain-rule
+- mattketmo/email-checker
 - milwad/laravel-validate
+- prettus/laravel-validation
+- propaganistas/laravel-disposable-email
 - propaganistas/laravel-phone
 - sandermuller/laravel-fluent-validation
+- schuppo/password-strength
 - spatie/laravel-validation-rules
 - square/laravel-hyrule
 - theriddleofenigma/laravel-model-validation
 - touhidurabir/laravel-model-sanitize
+- watson/validating

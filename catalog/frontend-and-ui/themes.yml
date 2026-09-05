@@ -1,6 +1,7 @@
 name: Themes
 description: Managing swappable themes and dashboard presets
 projects:
+- igaster/laravel-theme
 - qirolab/laravel-themer
 - takielias/tablar
 - takielias/tablar-kit

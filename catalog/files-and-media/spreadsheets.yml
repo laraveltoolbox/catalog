@@ -6,5 +6,6 @@ projects:
 - maatwebsite/excel
 - phpoffice/phpspreadsheet
 - rap2hpoutre/fast-excel
+- spatie/simple-excel
 - usmanhalalit/laracsv
 - zappzerapp/laravel-ingest

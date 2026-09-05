@@ -2,5 +2,9 @@ name: Micro Frameworks
 description: Building console, desktop and other non-web apps on Laravel
 projects:
 - danjohnson95/pinout
+- laravel-zero/foundation
+- laravel-zero/framework
 - laravel-zero/laravel-zero
+- laravel/lumen-framework
+- laravelista/lumen-vendor-publish
 - nativephp/electron

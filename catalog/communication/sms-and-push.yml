@@ -1,13 +1,26 @@
 name: SMS & Push
 description: Text messages and push notifications to devices
 projects:
+- aloha/twilio
+- berkayk/onesignal-laravel
+- brozot/laravel-fcm
 - devkandil/notifire
+- edujugon/push-notification
 - itxshakil/laravel-fast2sms
 - kutia-software-company/larafirebase
+- laravel-notification-channels/apn
+- laravel-notification-channels/aws-sns
+- laravel-notification-channels/fcm
+- laravel-notification-channels/messagebird
+- laravel-notification-channels/onesignal
 - laravel-notification-channels/pusher-push-notifications
+- laravel-notification-channels/twilio
 - laravel-notification-channels/webpush
+- laravel/nexmo-notification-channel
 - laravel/vonage-notification-channel
 - michal78/laravel-sms-catcher
+- nexmo/laravel
 - sly/notification-pusher
 - syntech/syntechfcm
 - tzsk/sms
+- vonage/vonage-laravel

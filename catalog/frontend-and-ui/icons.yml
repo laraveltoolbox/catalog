@@ -2,12 +2,19 @@ name: Icons & Avatars
 description: Icon sets, flags, favicons and generated avatars
 projects:
 - beyondcode/laravel-favicon
+- blade-ui-kit/blade-heroicons
 - blade-ui-kit/blade-icons
+- codeat3/blade-phosphor-icons
 - codeat3/blade-zondicons
 - creativeorange/gravatar
+- davidhsianturi/blade-bootstrap-icons
 - hedger/laravel-envicon
 - helgesverre/blade-heroicons-upgrader
 - laravolt/avatar
+- nothingworks/blade-svg
+- orchid/blade-icons
 - outhebox/blade-flags
+- owenvoke/blade-fontawesome
+- thomaswelton/laravel-gravatar
 - tomloprod/radiance
 - unicon-rocks/unicon-laravel

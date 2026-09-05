@@ -6,6 +6,9 @@ projects:
 - jacobbennett/stripe-test-token
 - jonpurvis/faker-stripe
 - jpcaparas/laravel-faker-openai
+- laracasts/testdummy
+- league/factory-muffin
 - lukeraymonddowning/poser
 - mpociot/laravel-test-factory-helper
+- thedoctor0/laravel-factory-generator
 - worksome/request-factories

@@ -1,6 +1,7 @@
 name: Cloud Platform SDKs
 description: Clients for AWS, Firebase, Kubernetes and other platforms
 projects:
+- aws/aws-sdk-php-laravel
 - boci/hetzner-laravel
 - dcblogdev/laravel-microsoft-graph
 - graham-campbell/digitalocean
@@ -8,3 +9,4 @@ projects:
 - kreait/firebase-php
 - kreait/laravel-firebase
 - orrison/cumulus
+- pulkitjalan/google-apiclient

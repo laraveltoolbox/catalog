@@ -1,6 +1,7 @@
 name: Dates & Time
 description: Periods, recurrence, opening hours and timezones
 projects:
+- camroncade/timezone
 - hanifhefaz/dcter
 - intervention/zodiac
 - label84/laravel-hours-helper

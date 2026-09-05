@@ -1,0 +1,6 @@
+name: Archives & Compression
+description: Creating and extracting zip archives from Laravel applications
+projects:
+- chumper/zipper
+- madnest/madzipper
+- zanysoft/laravel-zip

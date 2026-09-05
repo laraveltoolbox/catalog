@@ -5,6 +5,7 @@ projects:
 - anystack-sh/porter
 - aschmelyun/fleet
 - kilroyweb/homeboy
+- laravel/installer
 - laravel/sail
 - shipping-docker/vessel
 - soloterm/solo

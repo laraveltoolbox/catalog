@@ -1,7 +1,9 @@
 name: Payment Gateways
 description: Integrating with payment providers
 projects:
+- cartalyst/stripe-laravel
 - danestves/laravel-polar
+- ignited/laravel-omnipay
 - laravel-payhere/laravel-payhere
 - lemonsqueezy/laravel
 - mollie/laravel-mollie
@@ -10,3 +12,5 @@ projects:
 - protonemedia/laravel-paddle
 - simonhamp/laravel-stripe-connect
 - square1/laravel-mpp
+- srmklive/paypal
+- unicodeveloper/laravel-paystack

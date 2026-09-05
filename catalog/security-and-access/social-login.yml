@@ -4,6 +4,9 @@ projects:
 - adamwathan/eloquent-oauth
 - blaspsoft/socialiteplus
 - directorytree/bartender
+- dutchcodingcompany/filament-socialite
 - joelbutcher/socialstream
 - laravel/socialite
 - mikebronner/laravel-sign-in-with-apple
+- oriceon/oauth-5-laravel
+- socialiteproviders/manager

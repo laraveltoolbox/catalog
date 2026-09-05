@@ -4,6 +4,7 @@ projects:
 - askedio/laravel-soft-cascade
 - dillingham/soft-deletes-parent
 - dyrynda/laravel-cascade-soft-deletes
+- iatstuti/laravel-cascade-soft-deletes
 - mpociot/reanimate
 - spatie/laravel-deleted-models
 - tightenco/quicksand

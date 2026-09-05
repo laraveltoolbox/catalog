@@ -7,9 +7,11 @@ projects:
 - dragon-code/laravel-cache
 - iazaran/smart-cache
 - laragear/preload
+- madewithlove/illuminate-psr-cache-bridge
 - nexxai/laravel-cfcache
 - ryangjchandler/blade-cache-directive
 - silber/page-cache
+- spatie/laravel-blink
 - spatie/laravel-responsecache
 - spatie/once
 - vectorial1024/laravel-cache-evict

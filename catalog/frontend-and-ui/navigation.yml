@@ -1,6 +1,9 @@
 name: Menus & Breadcrumbs
 description: Generating navigation structures
 projects:
+- davejamesmiller/laravel-breadcrumbs
 - diglactic/laravel-breadcrumbs
+- lavary/laravel-menu
 - spatie/laravel-menu
 - spatie/laravel-navigation
+- tabuna/breadcrumbs

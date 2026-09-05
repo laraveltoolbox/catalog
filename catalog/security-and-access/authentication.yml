@@ -1,16 +1,25 @@
 name: Authentication
 description: Logging users in, from scaffolding to passwordless flows
 projects:
+- 24slides/laravel-saml2
+- aacotroneo/laravel-saml2
+- adldap2/adldap2
+- adldap2/adldap2-laravel
 - auth0/login
 - blaspsoft/token-forge
 - cartalyst/sentinel
+- cartalyst/sentry
+- cesargb/laravel-magiclink
 - charlielangridge/playa
 - chr15k/laravel-legacy-bridge
 - cjmellor/browser-sessions
+- directorytree/ldaprecord-laravel
 - grosv/laravel-passwordless-login
 - laravel/breeze
 - laravel/fortify
 - little-green-man/earhart
+- olssonm/l5-very-basic-auth
 - pushery/email-magic-link-for-laravel
 - reshadman/laravel-mongo-auth
 - spiderwebtr/isauth
+- workos/workos-php-laravel

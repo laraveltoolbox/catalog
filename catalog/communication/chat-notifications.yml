@@ -4,8 +4,11 @@ projects:
 - gpressutto5/laravel-slack
 - guywarner/laravel-google-chat-alerts
 - innocenzi/bluesky-notification-channel
+- laravel-notification-channels/discord
 - laravel-notification-channels/google-chat
+- laravel-notification-channels/microsoft-teams
 - laravel-notification-channels/telegram
+- laravel/slack-notification-channel
 - maknz/slack
 - osa-eg/laravel-teams-notification
 - spatie/laravel-slack-alerts

@@ -3,12 +3,20 @@ description: Scaffolding models, CRUD, migrations and other boilerplate
 projects:
 - binafy/laravel-stub
 - egyjs/dbml-to-laravel
+- flipbox/lumen-generator
 - grazulex/laravel-turbomaker
+- infyomlabs/adminlte-templates
+- infyomlabs/laravel-generator
+- krlove/eloquent-model-generator
 - laracademy/generators
 - laracademy/interactive-make
 - laracasts/generators
 - laravel-shift/blueprint
 - mitulgolakiya/laravel-api-generator
 - mrmarchone/laravel-auto-crud
+- orchestra/canvas
+- orchestra/canvas-core
 - reliese/laravel
 - samasend/laravel-make-scope
+- way/generators
+- xethron/laravel-4-generators

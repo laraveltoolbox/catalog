@@ -3,14 +3,23 @@ description: Wrappers around individual SaaS and public APIs
 projects:
 - andreia/php-sdk-dolby-api
 - cyberduck/laravel-wp-api
+- devio/pipedrive
 - fiveam-code/laravel-notion-api
 - github-php/sponsors
 - graham-campbell/github
+- happyr/linkedin-api-client
+- huddledigital/zendesk-laravel
+- jlevers/selling-partner-api
 - joelbutcher/laravel-facebook-graph
 - johnpaulmedina/laravel-usps
 - needlaravelsite/tikapi-php
+- omniphx/forrest
 - openfoodfacts/openfoodfacts-laravel
+- overtrue/laravel-wechat
+- pingencom/pingen2-sdk-php
+- revolution/laravel-google-sheets
 - saeedvir/supabase
+- sammyk/laravel-facebook-sdk
 - signifly/laravel-shopify
 - slvler/cuttly
 - spatie/laravel-google-calendar

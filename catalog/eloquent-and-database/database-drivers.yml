@@ -3,12 +3,17 @@ description: Connecting Eloquent to databases the framework does not ship with
 projects:
 - amazingbv/laravel-google-sheets-database-driver
 - analogue/orm
+- baopham/dynamodb
 - calebporzio/sushi
 - daltonmccleery/remote-models
 - directorytree/ldaprecord
+- glushkovds/phpclickhouse-laravel
 - jacobjoergensen/laravel-paper
+- jenssegers/mongodb
 - kitar/laravel-dynamodb
+- larapack/doctrine-support
 - laravel-clickhouse/laravel-clickhouse
+- laravel-doctrine/extensions
 - laravel-doctrine/orm
 - mongodb/laravel-mongodb
 - ryangjchandler/orbit

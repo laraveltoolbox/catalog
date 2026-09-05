@@ -3,3 +3,4 @@ description: Receiving and processing incoming mail
 projects:
 - beyondcode/laravel-mailbox
 - directorytree/imapengine
+- webklex/laravel-imap

@@ -3,5 +3,6 @@ description: Driving a real browser against the application
 projects:
 - laracasts/cypress
 - laracasts/integrated
+- laravel/browser-kit-testing
 - laravel/dusk
 - web-id/laravel-playwright

@@ -3,9 +3,20 @@ description: Countries, currencies, languages and other reference data
 projects:
 - codezero/browser-locale
 - devrabiul/laravel-geo-genius
+- dougsisk/laravel-country-state
 - laravel-lang/common
+- laravel-lang/native-country-names
+- laravel-lang/native-currency-names
+- laravel-lang/native-locale-names
+- monarobase/country-list
 - nnjeim/world
 - pragmarx/countries
+- pragmarx/countries-laravel
 - prinsfrank/standards
+- squirephp/countries
+- squirephp/countries-en
+- squirephp/model
 - squirephp/repository
+- squirephp/rule
 - stefro/laravel-lang-country
+- webpatser/laravel-countries

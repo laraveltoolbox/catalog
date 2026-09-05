@@ -1,5 +1,8 @@
 name: GraphQL
 description: Serving GraphQL from Laravel
 projects:
+- laragraph/utils
+- mll-lab/laravel-graphiql
+- mll-lab/laravel-graphql-playground
 - nuwave/lighthouse
 - rebing/graphql-laravel

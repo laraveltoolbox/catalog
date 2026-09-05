@@ -5,7 +5,9 @@ projects:
 - brotzka/laravel-dotenv-editor
 - chrisdicarlo/laravel-config-checker
 - intermax/veil
+- jackiedo/dotenv-editor
 - mathiasgrimm/laravel-dot-env-gen
 - msamgan/laravel-env-keys-checker
 - nunomaduro/essentials
+- pragmarx/yaml
 - worksome/envy
