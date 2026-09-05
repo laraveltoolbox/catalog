@@ -4,4 +4,6 @@ projects:
 - archtechx/enums
 - bensampo/laravel-enum
 - emreyarligan/enum-concern
+- konekt/enum-eloquent
 - rexlabs/enum
+- spatie/laravel-enum

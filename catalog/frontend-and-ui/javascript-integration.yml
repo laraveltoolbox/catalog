@@ -4,10 +4,13 @@ projects:
 - based/laravel-typescript
 - based/momentum-trail
 - coderello/laravel-shared-data
+- laracasts/utilities
 - laravel/wayfinder
+- lord/laroute
 - mariuzzo/laravel-js-localization
 - scrumble-nl/laravel-model-ts-type
 - spatie/laravel-blade-javascript
 - spatie/laravel-server-side-rendering
+- spatie/laravel-typescript-transformer
 - spatie/typescript-transformer
 - tightenco/ziggy

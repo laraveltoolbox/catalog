@@ -4,7 +4,12 @@ projects:
 - cerbero/json-parser
 - cerbero/lazy-json-pages
 - eastwest/json
+- laravel/serializable-closure
 - mischasigtermans/laravel-toon
+- mtownsend/response-xml
+- nathanmac/parser
 - noki/laravel-xml-converter
 - rodenastyle/stream-parser
 - saloonphp/xml-wrangler
+- soapbox/laravel-formatter
+- tucker-eric/laravel-xml-middleware

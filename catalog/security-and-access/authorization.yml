@@ -1,6 +1,7 @@
 name: Authorization & Permissions
 description: Roles, permissions, teams and bans
 projects:
+- althinect/filament-spatie-roles-permissions
 - beatswitch/lock
 - bezhansalleh/filament-shield
 - bican/roles
@@ -21,3 +22,4 @@ projects:
 - santigarcor/laratrust
 - silber/bouncer
 - spatie/laravel-permission
+- zizaco/entrust

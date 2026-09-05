@@ -5,4 +5,5 @@ projects:
 - power-components/livewire-powergrid
 - ramonrietdijk/livewire-tables
 - rappasoft/laravel-livewire-tables
+- yajra/laravel-datatables-editor
 - yajra/laravel-datatables-oracle

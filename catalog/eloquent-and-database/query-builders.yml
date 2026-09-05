@@ -3,6 +3,7 @@ description: Building, filtering and sorting queries, often straight from reques
 projects:
 - abbasudo/laravel-purity
 - anourvalar/eloquent-serialize
+- bosnadev/database
 - indexzer0/eloquent-filtering
 - jerome/filterable
 - kettasoft/filterable
@@ -10,6 +11,7 @@ projects:
 - l3aro/pipeline-query-collection
 - lacodix/laravel-model-filter
 - laracraft-tech/laravel-date-scopes
+- laravie/serialize-queries
 - lorisleiva/laravel-search-string
 - mehdi-fathi/eloquent-filter
 - omar-elnaghy/laradate-filters
@@ -17,5 +19,6 @@ projects:
 - sbamtr/laravel-query-enrich
 - spatie/laravel-query-builder
 - staudenmeir/laravel-cte
+- the-tinderbox/clickhouse-builder
 - tpetry/laravel-query-expressions
 - tucker-eric/eloquentfilter

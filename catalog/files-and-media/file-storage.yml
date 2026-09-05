@@ -1,9 +1,14 @@
 name: File Storage
 description: Filesystem abstractions, drivers and storage helpers
 projects:
+- azure-oss/storage-blob-laravel
 - dietercoopman/smart
+- graham-campbell/flysystem
 - league/flysystem
 - maxkhim/laravel-storage-dedupler
+- spatie/laravel-directory-cleanup
+- spatie/laravel-google-cloud-storage
 - spatie/temporary-directory
 - stechstudio/laravel-zipstream
+- superbalist/laravel-google-cloud-storage
 - vormkracht10/flysystem-uploadcare

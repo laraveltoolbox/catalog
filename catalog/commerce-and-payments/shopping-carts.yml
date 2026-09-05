@@ -4,4 +4,5 @@ projects:
 - beyondcode/laravel-vouchers
 - binafy/laravel-cart
 - binafy/laravel-discount
+- darryldecode/cart
 - safemood/discountify

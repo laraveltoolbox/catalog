@@ -3,13 +3,17 @@ description: Writing API integrations and SDKs
 projects:
 - ahmadwaleed/laravel-blanket
 - algoyounes/circuit-breaker
+- appstract/lush-http
 - bilfeldt/laravel-http-client-logger
 - crescat-io/saloon-sdk-generator
 - fansipan/fansipan
 - farayaz/laravel-spy
 - gocanto/http-client
+- ixudra/curl
 - jerome/fetch-php
 - juststeveking/laravel-transporter
+- kozz/laravel-guzzle-provider
 - ricorocks-digital-agency/soap
+- saloonphp/laravel-plugin
 - saloonphp/saloon
 - sammyjo20/saloon

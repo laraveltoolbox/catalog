@@ -1,6 +1,7 @@
 name: Rate Limiting & Locking
 description: Throttling, cooldowns, quotas and application-level locks
 projects:
+- artisansdk/ratelimiter
 - danharrin/livewire-rate-limiting
 - graham-campbell/throttle
 - zaber-dev/laravel-cooldown

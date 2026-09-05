@@ -7,7 +7,9 @@ projects:
 - jeremykenedy/laravel2step
 - laragear/two-factor
 - laragear/webauthn
+- laravel/passkeys
 - m1guelpf/laravel-fastlogin
 - pragmarx/google2fa
+- pragmarx/google2fa-laravel
 - salehhashemi/laravel-otp-manager
 - spatie/laravel-passkeys

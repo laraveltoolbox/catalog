@@ -1,14 +1,23 @@
 name: Model Relationships
 description: Additional relationship types and shortcuts for related records
 projects:
+- ajcastro/eager-load-pivot-relations
 - awobaz/compoships
+- baum/baum
 - biiiiiigmonster/hasin
 - calebporzio/parental
 - chelout/laravel-relationship-events
+- fico7489/laravel-pivot
+- genealabs/laravel-pivot-events
+- kalnoy/nestedset
+- mikebronner/laravel-pivot-events
 - mr-punyapal/laravel-extended-relationships
+- reedware/laravel-relation-joins
 - sowailem/ownable
 - staudenmeir/belongs-to-through
+- staudenmeir/eloquent-eager-limit
 - staudenmeir/eloquent-has-many-deep
+- staudenmeir/eloquent-has-many-deep-contracts
 - staudenmeir/eloquent-json-relations
 - staudenmeir/laravel-adjacency-list
 - tightenco/parental

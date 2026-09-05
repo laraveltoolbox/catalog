@@ -1,10 +1,13 @@
 name: Charts & Dashboards
 description: Visualising application data in charts and dashboards
 projects:
+- asantibanez/livewire-charts
 - chartello/chartello
 - consoletvs/charts
 - directorytree/metrics
+- flowframe/laravel-trend
 - jhumanj/laravel-model-stats
+- leandrocfe/filament-apex-charts
 - maantje/charts
 - sakanjo/laravel-easy-metrics
 - spatie/laravel-stats

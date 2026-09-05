@@ -5,10 +5,16 @@ projects:
 - deployer/deployer
 - dragon-code/laravel-actions
 - dragon-code/laravel-deploy-operations
+- dusterio/laravel-aws-worker
 - hammerstone/airdrop
 - justpark/envoyer-deploy
 - juststeveking/laravel-envoyer-sdk
 - laravel/envoy
+- laravel/vapor-cli
+- laravel/vapor-core
+- laravel/vapor-ui
+- lorisleiva/laravel-deployer
+- pragmarx/version
 - salahhusa9/laravel-updater
 - sammyjo20/lasso
 - timokoerber/laravel-one-time-operations

@@ -2,6 +2,7 @@ name: Mocking & Fakes
 description: Faking mail, logs and HTTP responses in tests
 projects:
 - gromatics/http-fixtures
+- josiasmontag/laravel-redis-mock
 - kirschbaum-development/mail-intercept
 - tightenco/mailthief
 - timacdonald/log-fake

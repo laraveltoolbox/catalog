@@ -7,8 +7,14 @@ projects:
 - coconutcraig/laravel-postmark
 - dietercoopman/mailspfchecker
 - innoge/laravel-msgraph-mail
+- intonate/laravel-mandrill-driver
+- jdavidbakr/mail-tracker
 - mailcarrier/mailcarrier
+- mailersend/laravel-driver
+- mailjet/laravel-mailjet
 - pod-point/laravel-mail-export
 - resend/resend-laravel
 - s-ichikawa/laravel-sendgrid-driver
+- therobfonz/laravel-mandrill-driver
+- vemcogroup/laravel-sparkpost-driver
 - wnx/laravel-sends

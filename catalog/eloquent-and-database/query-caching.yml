@@ -6,3 +6,4 @@ projects:
 - mike-bronner/laravel-model-caching
 - mostafaznv/laracache
 - rennokki/laravel-eloquent-query-cache
+- watson/rememberable

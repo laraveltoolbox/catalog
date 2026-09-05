@@ -4,3 +4,4 @@ projects:
 - achyutn/laravel-hls
 - pbmedia/laravel-ffmpeg
 - projektgopher/laravel-ffmpeg-tools
+- vimeo/laravel

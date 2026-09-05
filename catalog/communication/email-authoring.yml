@@ -1,6 +1,8 @@
 name: Email Authoring & Preview
 description: Writing, editing and previewing mailables
 projects:
+- eduardokum/laravel-mail-auto-embed
+- fedeisas/laravel-mail-css-inliner
 - joggapp/laravel-mail-viewer
 - qoraiche/laravel-mail-editor
 - spatie/laravel-mail-preview

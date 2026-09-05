@@ -1,7 +1,9 @@
 name: Auditing & Versioning
 description: Revision histories, drafts and change logs for model data
 projects:
+- altek/accountant
 - infinitypaul/laravel-dynamodb-auditing
+- mpociot/versionable
 - oddvalue/laravel-drafts
 - orisintel/laravel-process-stamps
 - overtrue/laravel-versionable

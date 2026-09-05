@@ -9,3 +9,4 @@ projects:
 - sqids/sqids
 - valorin/random
 - vinkla/hashids
+- webpatser/laravel-uuid

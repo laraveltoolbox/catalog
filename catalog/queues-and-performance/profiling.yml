@@ -3,6 +3,7 @@ description: Measuring where the time in a request actually goes
 projects:
 - beyondcode/laravel-query-detector
 - beyondcode/laravel-server-timing
+- blackfire/php-sdk
 - christophrumpel/artisan-benchmark
 - jaydeep/laravel-time-machine
 - laracraft-tech/laravel-xhprof

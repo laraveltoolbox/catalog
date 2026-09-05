@@ -1,7 +1,10 @@
 name: Media Libraries
 description: Associating files and media collections with models
 projects:
+- cloudinary-labs/cloudinary-laravel
+- ebess/advanced-nova-media-library
 - elegantly/laravel-media
 - laraveljutsu/laravel-artifact
 - livewire-filemanager/filemanager
+- plank/laravel-mediable
 - spatie/laravel-medialibrary

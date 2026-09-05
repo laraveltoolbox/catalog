@@ -1,6 +1,7 @@
 name: Real-Time & Broadcasting
 description: WebSocket servers and broadcasting drivers
 projects:
+- ably/laravel-broadcaster
 - anycable/laravel-broadcaster
 - beyondcode/laravel-websockets
 - cmosguy/laravel-http-pushstream-broadcaster

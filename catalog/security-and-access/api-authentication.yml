@@ -1,10 +1,12 @@
 name: API Authentication
 description: Tokens, OAuth servers and JWTs for API clients
 projects:
+- dusterio/lumen-passport
 - juststeveking/laravel-bastion
 - laravel/passport
 - laravel/sanctum
 - lcobucci/jwt
 - lucadegasperi/oauth2-server-laravel
+- php-open-source-saver/jwt-auth
 - stechstudio/laravel-jwt
 - tymon/jwt-auth

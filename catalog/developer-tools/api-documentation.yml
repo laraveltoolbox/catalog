@@ -5,9 +5,15 @@ projects:
 - darkaonline/l5-swagger
 - davidhsianturi/laravel-compass
 - dedoc/scramble
+- dingo/blueprint
+- infyomlabs/swagger-generator
+- knuckleswtf/pastel
+- knuckleswtf/scribe
 - mpociot/laravel-apidoc-generator
 - primitive/openapi-initializer
+- rakutentech/laravel-request-docs
 - spatie/laravel-openapi-cli
+- vyuldashev/laravel-openapi
 - wotz/laravel-swagger-ui
 - yasin_tgh/laravel-postman
 - zircote/swagger-php

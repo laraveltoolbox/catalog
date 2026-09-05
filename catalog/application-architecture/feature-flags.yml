@@ -2,6 +2,7 @@ name: Feature Flags
 description: Rolling features out gradually and running experiments
 projects:
 - abrouter/laravel-abtest
+- friendsofcat/laravel-feature-flag
 - laravel/pennant
 - offload-project/laravel-toggle
 - stephenjude/filament-feature-flags

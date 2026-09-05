@@ -1,9 +1,12 @@
 name: Migrations & Seeding
 description: Writing, generating and running schema migrations and seed data
 projects:
+- daursu/laravel-zero-downtime-migration
+- flynsarmy/csv-seeder
 - jlapp/smart-seeder
 - kitloong/laravel-migrations-generator
 - laragear/populate
+- laravel-doctrine/migrations
 - nunomaduro/laravel-optimize-database
 - orangehill/iseed
 - ramadan/custom-fresh

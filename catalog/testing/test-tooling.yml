@@ -1,13 +1,19 @@
 name: Test Tooling
 description: Mutation testing, coverage, speed and other test suite tooling
 projects:
+- cloudcreativity/json-api-testing
 - codedungeon/phpunit-result-printer
 - drfraker/snipe-migrations
 - grazulex/laravel-chronotrace
+- hotmeteor/spectator
 - infection/infection
 - johnkary/phpunit-speedtrap
+- kirschbaum-development/laravel-openapi-validator
+- laravel-json-api/testing
+- orchestra/testbench-core
 - pecl/pcov
 - pestphp/pest-plugin-profanity
 - pragmarx/tddd
+- sti3bas/laravel-scout-array-driver
 - volt-test/laravel-performance-testing
 - webcrafts-studio/lens-for-laravel

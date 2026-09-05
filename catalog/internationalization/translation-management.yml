@@ -2,16 +2,27 @@ name: Translation Management
 description: Finding, editing and syncing translation strings
 projects:
 - amirami/localizator
+- barryvdh/laravel-translation-manager
+- bezhansalleh/filament-language-switch
 - bottelet/translation-checker
 - edulazaro/laratext
 - elegantly/laravel-translator
 - jayesh/laravel-gemini-translator
+- joedixon/laravel-translation
 - kargnas/laravel-ai-translator
 - kg-bot/laravel-localization-to-vue
+- kkomelin/laravel-translatable-string-exporter
+- laravel-lang/config
+- laravel-lang/json-fallback
+- laravel-lang/moonshine
+- laravel-lang/publisher
+- laraveles/spanish
 - larswiegers/laravel-translations-checker
 - maestroerror/html-strings-affixer
+- martinlindhe/laravel-vue-i18n-generator
 - nikaia/translation-sheet
 - outhebox/laravel-translations
+- overtrue/laravel-lang
 - spatie/laravel-translation-loader
 - tanmuhittin/laravel-google-translate
 - themsaid/laravel-langman

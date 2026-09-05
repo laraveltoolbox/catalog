@@ -5,4 +5,5 @@ projects:
 - codewithkyrian/whisper.php
 - halilcosdu/laravel-replicate
 - joggapp/laravel-natural-language
+- pgvector/pgvector
 - vlados/laravel-related-content

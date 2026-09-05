@@ -2,12 +2,20 @@ name: Admin Panels
 description: Filament, Nova, Backpack and other back-office toolkits
 projects:
 - achyutn/filament-storage-monitor
+- alexwenzel/nova-dependency-container
 - backpack/crud
+- bezhansalleh/filament-plugin-essentials
 - code16/sharp
+- dillingham/nova-attach-many
+- encore/laravel-admin
 - filament/filament
+- filament/support
 - jeffersongoncalves/filament-qrcode-field
+- jeroennoten/laravel-adminlte
 - kirschbaum-development/nova-inline-select
 - laravel/nova-log-viewer
 - mokhosh/filament-kanban
 - moonshine/moonshine
 - orchid/platform
+- saade/filament-fullcalendar
+- tcg/voyager

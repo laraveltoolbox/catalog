@@ -5,6 +5,7 @@ projects:
 - cjmellor/approval
 - makeabledk/laravel-eloquent-status
 - ringlesoft/laravel-process-approval
+- sebdesign/laravel-state-machine
 - spatie/laravel-model-states
 - spatie/laravel-model-status
 - thefeqy/laravel-model-status

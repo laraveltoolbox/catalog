@@ -2,6 +2,7 @@ name: Strings & Text
 description: Formatting, transforming and inspecting text
 projects:
 - blaspsoft/onym
+- cocur/slugify
 - colinodell/indentation
 - hotmeteor/regex
 - koenhendriks/laravel-str-acronym

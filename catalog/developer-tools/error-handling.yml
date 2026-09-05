@@ -1,9 +1,18 @@
 name: Error Handling
 description: Reporting exceptions and making failures easier to understand
 projects:
+- bugsnag/bugsnag-laravel
 - cerbero/notifiable-exception
+- facade/ignition
+- graham-campbell/exceptions
 - hammerstone/flaky
+- honeybadger-io/honeybadger-laravel
+- jenssegers/rollbar
 - nunomaduro/collision
+- rollbar/rollbar-laravel
+- spatie/error-solutions
 - spatie/laravel-error-share
 - spatie/laravel-error-solutions
+- spatie/laravel-flare
+- spatie/laravel-ignition
 - tylercd100/lern

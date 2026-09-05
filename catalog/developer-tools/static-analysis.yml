@@ -2,10 +2,16 @@ name: Static Analysis
 description: Finding bugs and measuring the codebase without running it
 projects:
 - beyondcode/laravel-prose-linter
+- enlightn/enlightn
 - imanghafoori/laravel-microscope
 - larastan/larastan
 - laravel/roster
+- nunomaduro/larastan
+- nunomaduro/phpinsights
 - peckphp/peck
+- psalm/plugin-laravel
+- shipmonk/dead-code-detector
+- staabm/phpstan-psr3
 - tomasvotruba/bladestan
 - tomasvotruba/lines
 - wnx/laravel-stats

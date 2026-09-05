@@ -2,14 +2,20 @@ name: Logging
 description: Writing, reading, shipping and rotating log files
 projects:
 - accentinteractive/laravel-logcleaner
+- arcanedev/log-viewer
 - awt/apilogger
+- danielme85/laravel-log-to-db
 - freshbitsweb/laravel-log-enhancer
 - haruncpi/laravel-log-reader
+- kitloong/laravel-app-logger
 - laravel/pail
+- marvinlabs/laravel-discord-logger
 - mathiasgrimm/laravel-log-keeper
 - naoray/laravel-github-monolog
 - opcodesio/log-viewer
+- pagevamp/laravel-cloudwatch-logs
 - pod-point/laravel-monolog-kinesis
 - rap2hpoutre/laravel-log-viewer
 - saasscaleup/laravel-log-alarm
+- spatie/laravel-http-logger
 - spatie/laravel-tail

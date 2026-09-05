@@ -3,15 +3,22 @@ description: Headers, firewalls, scanners and other defensive measures
 projects:
 - akaunting/laravel-firewall
 - andreapollastri/checkpoint
+- barryvdh/laravel-cors
 - bepsvpt/secure-headers
 - dgtlss/warden
+- fruitcake/laravel-cors
+- graham-campbell/security
 - hdaklue/larapath
+- jorijn/laravel-security-checker
 - mews/purifier
+- monicahq/laravel-cloudflare
 - pragmarx/firewall
 - rahulalam31/laravel-abuse-ip
 - roave/security-advisories
 - sensiolabs/security-advisories
+- spatie/laravel-cors
 - spatie/laravel-csp
+- stevebauman/purify
 - sunspikes/clamav-validator
 - valorin/pwned-validator
 - ziming/laravel-zxcvbn

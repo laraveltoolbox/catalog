@@ -1,6 +1,8 @@
 name: Server Management
 description: Provisioning, scaling and running commands on servers
 projects:
+- laravel/forge-sdk
+- laravelcollective/remote
 - protonemedia/laravel-task-runner
 - renoki-co/laravel-php-k8s
 - sammyjo20/ssh-php

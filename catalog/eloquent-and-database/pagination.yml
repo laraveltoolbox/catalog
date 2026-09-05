@@ -5,3 +5,4 @@ projects:
 - aneeskhan47/laravel-pagination-merge
 - austinw/laravel-union-paginator
 - hammerstone/fast-paginate
+- spatie/laravel-json-api-paginate

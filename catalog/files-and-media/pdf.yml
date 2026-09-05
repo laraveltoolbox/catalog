@@ -3,9 +3,12 @@ description: Creating, optimising and printing PDF documents
 projects:
 - barryvdh/laravel-dompdf
 - barryvdh/laravel-snappy
+- codedge/laravel-fpdf
 - creagia/laravel-sign-pad
+- elibyy/tcpdf-laravel
 - knplabs/knp-snappy
 - mostafaznv/pdf-optimizer
 - omaralalwi/gpdf
 - rawilk/laravel-printing
 - spatie/laravel-pdf
+- webklex/laravel-pdfmerger

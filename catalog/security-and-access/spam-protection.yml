@@ -3,12 +3,20 @@ description: Captchas, honeypots and profanity filters
 projects:
 - albertcht/invisible-recaptcha
 - anhskohbo/no-captcha
+- biscolab/laravel-recaptcha
 - blaspsoft/blasp
+- buzz/laravel-google-captcha
+- consoletvs/profanity
 - derekcodes/turnstile-laravel
 - erag/laravel-disposable-email
+- greggilbert/recaptcha
+- jaybizzle/laravel-crawler-detect
 - jonpurvis/squeaky
+- josiasmontag/laravel-recaptchav3
 - lukeraymonddowning/honey
+- mews/captcha
 - mokhosh/muddle
+- msurguy/honeypot
 - oneduo/laravel-recaptcha-enterprise
 - rahul900day/laravel-captcha
 - ryangjchandler/laravel-cloudflare-turnstile
