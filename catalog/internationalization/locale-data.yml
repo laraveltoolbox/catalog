@@ -1,0 +1,11 @@
+name: Locale Data
+description: Countries, currencies, languages and other reference data
+projects:
+- codezero/browser-locale
+- devrabiul/laravel-geo-genius
+- laravel-lang/common
+- nnjeim/world
+- pragmarx/countries
+- prinsfrank/standards
+- squirephp/repository
+- stefro/laravel-lang-country

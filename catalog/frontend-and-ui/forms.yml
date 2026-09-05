@@ -1,0 +1,13 @@
+name: Forms & Form Builders
+description: Building, rendering and hardening HTML forms
+projects:
+- genealabs/laravel-caffeine
+- glhd/aire
+- lara-zeus/bolt
+- laragear/poke
+- laravel-arcanist/arcanist
+- metalogico/laravel-formello
+- proengsoft/laravel-jsvalidation
+- spatie/laravel-html
+- spatie/laravel-options
+- styde/html

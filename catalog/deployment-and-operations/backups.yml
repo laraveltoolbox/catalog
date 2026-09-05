@@ -1,0 +1,6 @@
+name: Backups
+description: Backing up an application and restoring it
+projects:
+- spatie/laravel-backup
+- spatie/laravel-backup-server
+- wnx/laravel-backup-restore

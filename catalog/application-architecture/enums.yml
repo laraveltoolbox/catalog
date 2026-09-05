@@ -1,0 +1,7 @@
+name: Enums
+description: Making PHP enums more capable inside a Laravel application
+projects:
+- archtechx/enums
+- bensampo/laravel-enum
+- emreyarligan/enum-concern
+- rexlabs/enum

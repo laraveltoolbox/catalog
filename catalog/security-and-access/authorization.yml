@@ -1,0 +1,23 @@
+name: Authorization & Permissions
+description: Roles, permissions, teams and bans
+projects:
+- beatswitch/lock
+- bezhansalleh/filament-shield
+- bican/roles
+- cybercog/laravel-ban
+- directorytree/authorization
+- edulazaro/larallow
+- eneadm/ladder
+- grazulex/laravel-multipersona
+- hasinhayder/tyro
+- hdaklue/porter
+- hexters/hexa-lite
+- inani/maravel-permissions
+- innoge/laravel-policy-soft-cache
+- kyrch/laravel-prohibitions
+- mateusjunges/laravel-acl
+- mchev/banhammer
+- mpociot/teamwork
+- santigarcor/laratrust
+- silber/bouncer
+- spatie/laravel-permission

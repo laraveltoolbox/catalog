@@ -1,0 +1,11 @@
+name: Environment & Config
+description: Managing .env files and validating configuration
+projects:
+- ashallendesign/laravel-config-validator
+- brotzka/laravel-dotenv-editor
+- chrisdicarlo/laravel-config-checker
+- intermax/veil
+- mathiasgrimm/laravel-dot-env-gen
+- msamgan/laravel-env-keys-checker
+- nunomaduro/essentials
+- worksome/envy

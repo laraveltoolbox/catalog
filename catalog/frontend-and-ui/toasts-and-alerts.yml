@@ -1,0 +1,11 @@
+name: Toasts & Flash Messages
+description: Flashing notifications to the browser
+projects:
+- devrabiul/laravel-toaster-magic
+- laracasts/flash
+- laragear/alerts
+- mckenziearts/laravel-notify
+- realrashid/sweet-alert
+- spatie/laravel-flash
+- usernotnull/tall-toasts
+- yoeunes/toastr

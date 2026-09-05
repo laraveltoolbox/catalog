@@ -1,0 +1,14 @@
+name: Queues & Jobs
+description: Running, chaining and keeping an eye on queued jobs
+projects:
+- amrlotfy/laravel-chores
+- imtigger/laravel-job-status
+- justiversen/laravel-job-chainer
+- kamranata/queue-sql
+- laravel/horizon
+- mateusjunges/laravel-trackable-jobs
+- sammyjo20/laravel-haystack
+- spatie/laravel-failed-job-monitor
+- storviaio/vantage
+- yangusik/laravel-balanced-queue
+- zackaj/laravel-debounce

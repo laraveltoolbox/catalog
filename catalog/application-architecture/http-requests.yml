@@ -1,0 +1,9 @@
+name: Requests & Responses
+description: Middleware, request parsing and response conventions
+projects:
+- barryvdh/laravel-stack-middleware
+- fideloper/proxy
+- jenssegers/agent
+- mobiledetect/mobiledetectlib
+- timacdonald/has-parameters
+- werk365/etagconditionals

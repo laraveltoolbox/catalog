@@ -1,0 +1,13 @@
+name: Migrations & Seeding
+description: Writing, generating and running schema migrations and seed data
+projects:
+- jlapp/smart-seeder
+- kitloong/laravel-migrations-generator
+- laragear/populate
+- nunomaduro/laravel-optimize-database
+- orangehill/iseed
+- ramadan/custom-fresh
+- rezaamini-ir/migrator
+- staudenmeir/laravel-migration-views
+- tyghaykal/laravel-seed-generator
+- xethron/migrations-generator

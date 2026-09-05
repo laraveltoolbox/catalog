@@ -1,0 +1,5 @@
+name: Gamification
+description: Experience points, levels and achievements
+projects:
+- cjmellor/level-up
+- tehwave/laravel-achievements

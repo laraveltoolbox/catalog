@@ -1,0 +1,6 @@
+name: Feeds & Sitemaps
+description: Generating sitemaps, RSS feeds and product feeds
+projects:
+- dragon-code/laravel-feeds
+- spatie/laravel-feed
+- spatie/laravel-sitemap

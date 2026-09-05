@@ -1,0 +1,7 @@
+name: Math & Numbers
+description: Statistics, number formatting and numeric algorithms
+projects:
+- hi-folks/rando-php
+- hi-folks/statistics
+- marvinlabs/laravel-luhn
+- rmunate/spell-number

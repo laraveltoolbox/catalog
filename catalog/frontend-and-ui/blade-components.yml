@@ -1,0 +1,6 @@
+name: Blade Components
+description: Reusable components and view models for Blade
+projects:
+- area17/blast
+- asantibanez/laravel-blade-sortable
+- spatie/laravel-view-components

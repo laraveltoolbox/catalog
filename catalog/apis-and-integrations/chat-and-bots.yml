@@ -1,0 +1,13 @@
+name: Chat & Bots
+description: Chat interfaces and bots for Telegram, Discord, WhatsApp and the web
+projects:
+- basement-chat/basement-chat
+- botman/botman
+- cmgmyr/messenger
+- defstudio/telegraph
+- irazasyed/telegram-bot-sdk
+- kstmostofa/laravel-whatsapp
+- laracord/laracord
+- munafio/chatify
+- rtippin/messenger
+- wirechat/wirechat

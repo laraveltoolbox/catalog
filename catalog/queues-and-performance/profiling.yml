@@ -1,0 +1,9 @@
+name: Profiling & Benchmarks
+description: Measuring where the time in a request actually goes
+projects:
+- beyondcode/laravel-query-detector
+- beyondcode/laravel-server-timing
+- christophrumpel/artisan-benchmark
+- jaydeep/laravel-time-machine
+- laracraft-tech/laravel-xhprof
+- tomloprod/time-warden

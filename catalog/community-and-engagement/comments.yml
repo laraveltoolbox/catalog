@@ -1,0 +1,5 @@
+name: Comments
+description: Adding comment threads to models
+projects:
+- lakm/laravel-comments
+- ryangjchandler/laravel-comments

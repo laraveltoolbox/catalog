@@ -1,0 +1,9 @@
+name: Assertions & Expectations
+description: Extra assertions for responses, views and routes
+projects:
+- defstudio/pest-plugin-laravel-expectations
+- jasonmccreary/laravel-test-assertions
+- nunomaduro/laravel-mojito
+- sinnbeck/laravel-dom-assertions
+- spatie/pest-plugin-route-testing
+- spatie/tabular-assertions

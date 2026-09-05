@@ -1,0 +1,9 @@
+name: Soft Deletes & Archiving
+description: Deleting, cascading, restoring and pruning soft-deleted records
+projects:
+- askedio/laravel-soft-cascade
+- dillingham/soft-deletes-parent
+- dyrynda/laravel-cascade-soft-deletes
+- mpociot/reanimate
+- spatie/laravel-deleted-models
+- tightenco/quicksand

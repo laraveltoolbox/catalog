@@ -1,0 +1,11 @@
+name: IDs & Random Values
+description: Unique ids, hashids, snowflakes and secure random values
+projects:
+- godruoyi/php-snowflake
+- hashids/hashids
+- jenssegers/optimus
+- justbetter/laravel-unique-values
+- nicobleiler/php-passphrase
+- sqids/sqids
+- valorin/random
+- vinkla/hashids

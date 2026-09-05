@@ -1,0 +1,26 @@
+name: Debugging
+description: Debug bars, dumpers and request inspectors
+projects:
+- ajthinking/tinx
+- barryvdh/laravel-debugbar
+- beyondcode/laravel-tinker-server
+- beyondcode/laravel-view-xray
+- davestewart/sketchpad
+- fruitcake/laravel-debugbar
+- fruitcake/laravel-telescope-toolbar
+- garygreen/pretty-routes
+- glhd/laravel-dumper
+- grazulex/laravel-devtoolbox
+- itsgoingd/clockwork
+- laradumps/laradumps
+- laramint/laravel-brain
+- laravel/telescope
+- lubusin/laravel-decomposer
+- muhammadhuzaifa/telescope-guzzle-watcher
+- soloterm/dumps
+- spatie/laravel-blade-comments
+- spatie/laravel-ray
+- spatie/laravel-web-tinker
+- stechstudio/phpinfo
+- wire-elements/wire-spy
+- wulfheart/pretty_routes

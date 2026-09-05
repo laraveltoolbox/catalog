@@ -1,0 +1,13 @@
+name: API Documentation
+description: Generating OpenAPI specs, Postman collections and API reference docs
+projects:
+- andreaselia/laravel-api-to-postman
+- darkaonline/l5-swagger
+- davidhsianturi/laravel-compass
+- dedoc/scramble
+- mpociot/laravel-apidoc-generator
+- primitive/openapi-initializer
+- spatie/laravel-openapi-cli
+- wotz/laravel-swagger-ui
+- yasin_tgh/laravel-postman
+- zircote/swagger-php

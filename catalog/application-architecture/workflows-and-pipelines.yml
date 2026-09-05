@@ -1,0 +1,10 @@
+name: Workflows & Pipelines
+description: Orchestrating multi-step processes and long-running workflows
+projects:
+- chefhasteeth/pipeline
+- chevere/workflow
+- discovery-ukraine/saga-lara-flow
+- durable-workflow/waterline
+- laravel-workflow/laravel-workflow
+- safemood/laravel-workflow
+- sassnowski/venture

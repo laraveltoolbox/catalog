@@ -1,0 +1,8 @@
+name: Wallets & Credits
+description: Balances, ledgers and credit systems
+projects:
+- 021/laravel-wallet
+- bavix/laravel-wallet
+- climactic/laravel-credits
+- hpwebdeveloper/laravel-pay-pocket
+- stephenjude/laravel-wallet

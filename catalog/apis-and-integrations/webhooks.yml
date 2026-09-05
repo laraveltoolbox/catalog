@@ -1,0 +1,10 @@
+name: Webhooks
+description: Sending, receiving and verifying webhooks
+projects:
+- clarkeash/shield
+- eventhomes/laravel-mandrillhooks
+- hotmeteor/receiver
+- jcergolj/brevo-webhook-manager-for-laravel
+- spatie/laravel-stripe-webhooks
+- spatie/laravel-webhook-client
+- spatie/laravel-webhook-server

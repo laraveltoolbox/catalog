@@ -1,0 +1,20 @@
+name: Database Drivers & ORMs
+description: Connecting Eloquent to databases the framework does not ship with
+projects:
+- amazingbv/laravel-google-sheets-database-driver
+- analogue/orm
+- calebporzio/sushi
+- daltonmccleery/remote-models
+- directorytree/ldaprecord
+- jacobjoergensen/laravel-paper
+- kitar/laravel-dynamodb
+- laravel-clickhouse/laravel-clickhouse
+- laravel-doctrine/orm
+- mongodb/laravel-mongodb
+- ryangjchandler/orbit
+- singlestoredb/singlestoredb-laravel
+- tpetry/laravel-postgresql-enhanced
+- vinelab/neoeloquent
+- waad/truffle
+- x7media/laravel-planetscale
+- yajra/laravel-oci8

@@ -1,0 +1,9 @@
+name: Server Management
+description: Provisioning, scaling and running commands on servers
+projects:
+- protonemedia/laravel-task-runner
+- renoki-co/laravel-php-k8s
+- sammyjo20/ssh-php
+- spatie/laravel-dynamic-servers
+- spatie/laravel-remote
+- whispphp/whisp

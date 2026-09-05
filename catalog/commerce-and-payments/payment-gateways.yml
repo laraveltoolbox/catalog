@@ -1,0 +1,12 @@
+name: Payment Gateways
+description: Integrating with payment providers
+projects:
+- danestves/laravel-polar
+- laravel-payhere/laravel-payhere
+- lemonsqueezy/laravel
+- mollie/laravel-mollie
+- musahmusah/laravel-multipayment-gateways
+- netbums/laravel-quickpay
+- protonemedia/laravel-paddle
+- simonhamp/laravel-stripe-connect
+- square1/laravel-mpp

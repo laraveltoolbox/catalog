@@ -1,0 +1,13 @@
+name: Chat Notifications
+description: Posting alerts to Slack, Teams, Telegram and friends
+projects:
+- gpressutto5/laravel-slack
+- guywarner/laravel-google-chat-alerts
+- innocenzi/bluesky-notification-channel
+- laravel-notification-channels/google-chat
+- laravel-notification-channels/telegram
+- maknz/slack
+- osa-eg/laravel-teams-notification
+- spatie/laravel-slack-alerts
+- team-nifty-gmbh/laravel-rocket-chat-notifications
+- theriddleofenigma/laravel-google-chat-log

@@ -1,0 +1,9 @@
+name: URLs & Redirects
+description: Short links, signed URLs and redirect management
+projects:
+- ashallendesign/short-url
+- grazulex/laravel-sharelink
+- sassnowski/laravel-shareable-models
+- sirodiaz/laravel-redirection
+- spatie/laravel-missing-page-redirector
+- spatie/laravel-url-signer

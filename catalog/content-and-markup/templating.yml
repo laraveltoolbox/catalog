@@ -1,0 +1,11 @@
+name: Blade & Templating
+description: Directives, filters and tooling for the template engine
+projects:
+- appstract/laravel-blade-directives
+- aqua/blade-emerald
+- bitpress/blade-extensions
+- conedevelopment/blade-filters
+- fortephp/forte
+- stillat/dagger
+- surgiie/blade-cli
+- tehwave/laravel-shortcodes

@@ -1,0 +1,8 @@
+name: Impersonation
+description: Logging in as another user
+projects:
+- franbarbalopez/mirror
+- lab404/laravel-impersonate
+- maurohmartinez/impersonate-users-backpack-laravel
+- octopyid/laravel-impersonate
+- viacreative/sudo-su

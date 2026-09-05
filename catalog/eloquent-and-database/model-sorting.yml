@@ -1,0 +1,7 @@
+name: Sorting & Ordering
+description: Keeping records in an explicit, user-defined order
+projects:
+- atomcoder/laravel-reorderable
+- kyslik/column-sortable
+- rutorika/sortable
+- spatie/eloquent-sortable

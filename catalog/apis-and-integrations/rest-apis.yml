@@ -1,0 +1,19 @@
+name: REST APIs
+description: Building JSON APIs, resources and API gateways
+projects:
+- binaryk/laravel-restify
+- dive-be/laravel-dry-requests
+- essa/api-tool-kit
+- f9webltd/laravel-api-response-helpers
+- flugger/laravel-responder
+- grazulex/laravel-apiroute
+- infinitypaul/idempotency-laravel
+- laravel-json-api/laravel
+- lomkit/laravel-rest-api
+- marcin-orlowski/laravel-api-response-builder
+- morcen/passage
+- reindert-vetter/api-version-control
+- sajya/server
+- spatie/laravel-fractal
+- tailflow/laravel-orion
+- wendelladriel/laravel-idempotency

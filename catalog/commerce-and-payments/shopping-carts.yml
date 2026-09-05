@@ -1,0 +1,7 @@
+name: Carts, Discounts & Vouchers
+description: Carts, discount rules and redeemable vouchers
+projects:
+- beyondcode/laravel-vouchers
+- binafy/laravel-cart
+- binafy/laravel-discount
+- safemood/discountify

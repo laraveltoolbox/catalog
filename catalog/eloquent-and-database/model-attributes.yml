@@ -1,0 +1,17 @@
+name: Model Attributes & Casts
+description: Casting, masking and storing extra attributes on a model
+projects:
+- belamov/postgres-range
+- blaspsoft/forerunner
+- glorand/laravel-model-settings
+- irabbi360/laravel-attribute-mask
+- kolossal-io/laravel-multiplex
+- milwad/laravel-attributes
+- sebastiaanluca/laravel-boolean-dates
+- spatie/laravel-model-flags
+- spatie/laravel-schemaless-attributes
+- vildanbina/laravel-model-json
+- vkovic/laravel-custom-casts
+- waad/laravel-model-metadata
+- wendelladriel/laravel-expressive
+- wendelladriel/laravel-lift

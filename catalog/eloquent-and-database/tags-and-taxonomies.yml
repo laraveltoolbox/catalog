@@ -1,0 +1,6 @@
+name: Tags & Taxonomies
+description: Attaching tags, categories and taxonomies to models
+projects:
+- aliziodev/laravel-taxonomy
+- cartalyst/tags
+- spatie/laravel-tags

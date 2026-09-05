@@ -1,0 +1,7 @@
+name: Code Style
+description: Formatting PHP code to a consistent standard
+projects:
+- ergebnis/composer-normalize
+- friendsofphp/php-cs-fixer
+- laravel/pint
+- pragmarx/laravelcs

@@ -1,0 +1,5 @@
+name: Automated Refactoring
+description: Rewriting and upgrading code automatically
+projects:
+- driftingly/rector-laravel
+- rector/rector

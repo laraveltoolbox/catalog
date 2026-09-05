@@ -1,0 +1,6 @@
+name: Video & Audio
+description: Transcoding and streaming media files
+projects:
+- achyutn/laravel-hls
+- pbmedia/laravel-ffmpeg
+- projektgopher/laravel-ffmpeg-tools

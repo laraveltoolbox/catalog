@@ -1,0 +1,14 @@
+name: Geocoding & Maps
+description: Coordinates, spatial data, IP lookups and map widgets
+projects:
+- clickbar/laravel-magellan
+- dimsav/laravel-ip-service
+- geocodio/geocodio-library-php
+- kmlaravel/laravel-geographical-calculator
+- knotsphp/publicip
+- koossaayy/laravel-mapbox
+- larswiegers/laravel-maps
+- spatie/geocoder
+- tarfin-labs/laravel-spatial
+- toin0u/geocoder-laravel
+- torann/geoip

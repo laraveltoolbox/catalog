@@ -1,0 +1,8 @@
+name: Machine Learning & NLP
+description: Speech, language and other machine learning workloads
+projects:
+- b7s/fluentvox
+- codewithkyrian/whisper.php
+- halilcosdu/laravel-replicate
+- joggapp/laravel-natural-language
+- vlados/laravel-related-content

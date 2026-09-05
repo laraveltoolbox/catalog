@@ -1,0 +1,5 @@
+name: Event Sourcing
+description: Storing state as a stream of domain events
+projects:
+- hirethunk/verbs
+- spatie/laravel-event-sourcing

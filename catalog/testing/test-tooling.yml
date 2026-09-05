@@ -1,0 +1,13 @@
+name: Test Tooling
+description: Mutation testing, coverage, speed and other test suite tooling
+projects:
+- codedungeon/phpunit-result-printer
+- drfraker/snipe-migrations
+- grazulex/laravel-chronotrace
+- infection/infection
+- johnkary/phpunit-speedtrap
+- pecl/pcov
+- pestphp/pest-plugin-profanity
+- pragmarx/tddd
+- volt-test/laravel-performance-testing
+- webcrafts-studio/lens-for-laravel

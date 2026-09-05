@@ -1,0 +1,11 @@
+name: Shop Platforms
+description: Full e-commerce and ERP platforms built on Laravel
+projects:
+- aimeos/aimeos-laravel
+- aureuserp/aureuserp
+- bagisto/bagisto
+- bagistoplus/visual
+- lunarphp/lunar
+- shopper/framework
+- unopim/unopim
+- vanilo/framework

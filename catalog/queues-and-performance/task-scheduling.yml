@@ -1,0 +1,12 @@
+name: Task Scheduling
+description: Scheduling recurring commands and managing the scheduler
+projects:
+- devakshay/scheduler-list-laravel
+- directorytree/cadence
+- indatus/dispatcher
+- robersonfaria/laravel-database-schedule
+- skywarth/chaotic-schedule
+- spatie/laravel-cronless-schedule
+- spatie/laravel-schedule-monitor
+- spatie/laravel-short-schedule
+- studio/laravel-totem

@@ -1,0 +1,12 @@
+name: Dates & Time
+description: Periods, recurrence, opening hours and timezones
+projects:
+- hanifhefaz/dcter
+- intervention/zodiac
+- label84/laravel-hours-helper
+- laraveljutsu/zap
+- mohammedmanssour/laravel-recurring-models
+- simshaun/recurr
+- spatie/opening-hours
+- spatie/period
+- whitecube/laravel-timezones

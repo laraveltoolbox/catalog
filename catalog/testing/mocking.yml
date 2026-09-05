@@ -1,0 +1,8 @@
+name: Mocking & Fakes
+description: Faking mail, logs and HTTP responses in tests
+projects:
+- gromatics/http-fixtures
+- kirschbaum-development/mail-intercept
+- tightenco/mailthief
+- timacdonald/log-fake
+- yllw-digital/laravel-chatgpt-mock-api

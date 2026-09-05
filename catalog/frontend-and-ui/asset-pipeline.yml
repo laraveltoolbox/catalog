@@ -1,0 +1,10 @@
+name: Assets & Bundling
+description: Compiling, loading and cleaning up CSS and JavaScript assets
+projects:
+- backpack/basset
+- gehrisandro/tailwind-merge-laravel
+- kriswallsmith/assetic
+- spatie/laravel-google-fonts
+- tarunkorat/laravel-asset-cleaner
+- tomschlick/laravel-http2-server-push
+- tonysm/tailwindcss-laravel

@@ -1,0 +1,14 @@
+name: Image Processing
+description: Manipulating, optimising and rendering images
+projects:
+- ace-of-aces/laravel-image-transform-url
+- coderello/laravel-proximage
+- daikazu/laravel-glider
+- intervention/image
+- maestroerror/php-heic-to-jpg
+- qcod/laravel-imageup
+- spatie/browsershot
+- spatie/laravel-image-optimizer
+- spatie/laravel-screenshot
+- spatie/pdf-to-image
+- wnx/sidecar-browsershot

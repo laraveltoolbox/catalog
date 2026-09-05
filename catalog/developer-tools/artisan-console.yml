@@ -1,0 +1,19 @@
+name: Artisan & Console
+description: Building richer command line interfaces on top of Artisan
+projects:
+- cerbero/command-validator
+- icanhazstring/symfony-console-spinner
+- infureal/artisan-gui
+- joshembling/artisan-browse
+- laravel/prompts
+- mrpunyapal/laravel-extended-commands
+- nunomaduro/laracon-schedule
+- nunomaduro/laravel-console-menu
+- nunomaduro/laravel-desktop-notifier
+- php-school/cli-menu
+- shomisha/laravel-console-wizard
+- soloterm/grapheme
+- soloterm/screen
+- spatie/laravel-artisan-dispatchable
+- titasgailius/terminal
+- wilderborn/partyline

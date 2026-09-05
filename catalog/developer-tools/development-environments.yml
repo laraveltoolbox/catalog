@@ -1,0 +1,13 @@
+name: Local Development
+description: Docker setups, local servers and other development environments
+projects:
+- aerni/cloudflared
+- anystack-sh/porter
+- aschmelyun/fleet
+- kilroyweb/homeboy
+- laravel/sail
+- shipping-docker/vessel
+- soloterm/solo
+- spatie/laravel-login-link
+- svpernova09/homesteadskeleton
+- tightenco/lambo

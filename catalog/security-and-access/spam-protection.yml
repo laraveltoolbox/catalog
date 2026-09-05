@@ -1,0 +1,15 @@
+name: Spam & Bot Protection
+description: Captchas, honeypots and profanity filters
+projects:
+- albertcht/invisible-recaptcha
+- anhskohbo/no-captcha
+- blaspsoft/blasp
+- derekcodes/turnstile-laravel
+- erag/laravel-disposable-email
+- jonpurvis/squeaky
+- lukeraymonddowning/honey
+- mokhosh/muddle
+- oneduo/laravel-recaptcha-enterprise
+- rahul900day/laravel-captcha
+- ryangjchandler/laravel-cloudflare-turnstile
+- spatie/laravel-honeypot

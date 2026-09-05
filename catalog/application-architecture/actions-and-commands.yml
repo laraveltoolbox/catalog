@@ -1,0 +1,5 @@
+name: Actions & Command Objects
+description: Wrapping a single unit of work in a reusable object
+projects:
+- lorisleiva/laravel-actions
+- spatie/laravel-queueable-action

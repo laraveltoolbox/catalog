@@ -1,0 +1,17 @@
+name: Application Hardening
+description: Headers, firewalls, scanners and other defensive measures
+projects:
+- akaunting/laravel-firewall
+- andreapollastri/checkpoint
+- bepsvpt/secure-headers
+- dgtlss/warden
+- hdaklue/larapath
+- mews/purifier
+- pragmarx/firewall
+- rahulalam31/laravel-abuse-ip
+- roave/security-advisories
+- sensiolabs/security-advisories
+- spatie/laravel-csp
+- sunspikes/clamav-validator
+- valorin/pwned-validator
+- ziming/laravel-zxcvbn

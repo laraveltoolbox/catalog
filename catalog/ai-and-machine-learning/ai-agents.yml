@@ -1,0 +1,15 @@
+name: AI Agents & MCP
+description: Agents, MCP servers and tooling that lets AI work with your codebase
+projects:
+- chimit/prompt
+- jordandalton/laravel-tackle
+- joshembling/laragenie
+- maestroerror/laragent
+- mateffy/laravel-codebase-mcp
+- mateffy/laravel-introspect
+- mischasigtermans/laravel-altitude
+- mrpunyapal/laravel-auditor
+- neuron-core/neuron-laravel
+- php-mcp/server
+- promptphp/intercept
+- rajurayhan/laravel-quickbooks-mcp-server

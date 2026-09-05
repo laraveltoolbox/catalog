@@ -1,0 +1,8 @@
+name: Application Settings
+description: Runtime settings that live in the database instead of config files
+projects:
+- anlutro/l4-settings
+- appstract/laravel-options
+- haruncpi/laravel-option-framework
+- qcod/laravel-app-settings
+- spatie/laravel-settings

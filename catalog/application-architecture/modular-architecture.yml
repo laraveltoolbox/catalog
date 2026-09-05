@@ -1,0 +1,11 @@
+name: Modular Architecture
+description: Splitting an application into modules, repositories and container bindings
+projects:
+- daniel-cintra/modular
+- internachi/modular
+- michael-rubel/laravel-auto-binder
+- michael-rubel/laravel-enhanced-container
+- nwidart/laravel-modules
+- prettus/l5-repository
+- spatie/php-attribute-reader
+- tormjens/eventy

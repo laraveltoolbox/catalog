@@ -1,0 +1,14 @@
+name: Code Generators
+description: Scaffolding models, CRUD, migrations and other boilerplate
+projects:
+- binafy/laravel-stub
+- egyjs/dbml-to-laravel
+- grazulex/laravel-turbomaker
+- laracademy/generators
+- laracademy/interactive-make
+- laracasts/generators
+- laravel-shift/blueprint
+- mitulgolakiya/laravel-api-generator
+- mrmarchone/laravel-auto-crud
+- reliese/laravel
+- samasend/laravel-make-scope

@@ -1,0 +1,6 @@
+name: Test Frameworks
+description: Running the test suite itself
+projects:
+- milroyfraser/pest-plugin-gwt
+- orchestra/testbench
+- pestphp/pest

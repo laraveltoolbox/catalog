@@ -1,0 +1,7 @@
+name: Pagination
+description: Faster and more flexible ways to paginate result sets
+projects:
+- aaronfrancis/fast-paginate
+- aneeskhan47/laravel-pagination-merge
+- austinw/laravel-union-paginator
+- hammerstone/fast-paginate

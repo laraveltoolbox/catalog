@@ -1,0 +1,12 @@
+name: SEO
+description: Meta tags, structured data and search engine optimisation
+projects:
+- archtechx/laravel-seo
+- artesaos/seotools
+- code4mk/lara-head
+- honeystone/laravel-seo
+- hszope/laravel-aigeo
+- laravel/head
+- ralphjsmit/laravel-seo
+- saasykit/laravel-open-graphy
+- spatie/schema-org

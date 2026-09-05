@@ -1,0 +1,13 @@
+name: Two-Factor & Passkeys
+description: Second factors, one-time passwords and WebAuthn
+projects:
+- asbiin/laravel-webauthn
+- benbjurstrom/otpz
+- ikechukwukalu/requirepin
+- jeremykenedy/laravel2step
+- laragear/two-factor
+- laragear/webauthn
+- m1guelpf/laravel-fastlogin
+- pragmarx/google2fa
+- salehhashemi/laravel-otp-manager
+- spatie/laravel-passkeys

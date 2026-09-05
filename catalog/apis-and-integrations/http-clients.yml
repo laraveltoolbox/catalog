@@ -1,0 +1,15 @@
+name: HTTP Clients
+description: Writing API integrations and SDKs
+projects:
+- ahmadwaleed/laravel-blanket
+- algoyounes/circuit-breaker
+- bilfeldt/laravel-http-client-logger
+- crescat-io/saloon-sdk-generator
+- fansipan/fansipan
+- farayaz/laravel-spy
+- gocanto/http-client
+- jerome/fetch-php
+- juststeveking/laravel-transporter
+- ricorocks-digital-agency/soap
+- saloonphp/saloon
+- sammyjo20/saloon

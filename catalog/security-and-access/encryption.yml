@@ -1,0 +1,9 @@
+name: Encryption & Hashing
+description: Encrypting fields, files and credentials
+projects:
+- betterapp/laravel-db-encrypter
+- beyondcode/laravel-credentials
+- ercsctt/laravel-file-encryption
+- jacknoordhuis/laravel-database-hashing
+- spatie/crypto
+- spatie/laravel-ciphersweet

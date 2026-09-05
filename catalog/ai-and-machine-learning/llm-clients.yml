@@ -1,0 +1,16 @@
+name: LLM Clients
+description: Talking to OpenAI, Claude, Gemini and other model providers
+projects:
+- claude-php/claude-php-sdk
+- deepseek-php/deepseek-laravel
+- echolabsdev/prism
+- google-gemini-php/laravel
+- grok-php/laravel
+- hosseinhezami/laravel-gemini
+- laravel/ai
+- moe-mizrak/laravel-openrouter
+- openai-php/client
+- openai-php/laravel
+- orhanerday/open-ai
+- prism-php/bedrock
+- prism-php/prism

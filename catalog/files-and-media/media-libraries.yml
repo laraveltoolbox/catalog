@@ -1,0 +1,7 @@
+name: Media Libraries
+description: Associating files and media collections with models
+projects:
+- elegantly/laravel-media
+- laraveljutsu/laravel-artifact
+- livewire-filemanager/filemanager
+- spatie/laravel-medialibrary

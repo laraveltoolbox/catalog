@@ -1,0 +1,6 @@
+name: Database Snapshots
+description: Dumping, snapshotting and restoring database contents
+projects:
+- hasinhayder/tyro-checkpoint
+- spatie/laravel-db-snapshots
+- watheqalshowaiter/backup-tables

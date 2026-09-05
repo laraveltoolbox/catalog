@@ -1,0 +1,17 @@
+name: Full-Text Search
+description: Searching models through Scout drivers and dedicated search engines
+projects:
+- algolia/scout-extended
+- devnoiseconsulting/laravel-scout-postgres-tsvector
+- dwarfdk/laravel-meilitools
+- haiderjabbar/laravelsolr
+- jeroen-g/explorer
+- laravel/scout
+- pdphilip/elasticlens
+- protonemedia/laravel-cross-eloquent-search
+- sleimanx2/plastic
+- spatie/laravel-searchable
+- spatie/laravel-site-search
+- spatie/searchindex
+- teamtnt/laravel-scout-tntsearch-driver
+- whitecube/laravel-search-builder

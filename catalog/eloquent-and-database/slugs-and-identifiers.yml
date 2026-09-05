@@ -1,0 +1,11 @@
+name: Slugs & Model Identifiers
+description: Readable, obfuscated or self-healing identifiers for models
+projects:
+- cviebrock/eloquent-sluggable
+- eg-mohamed/referenceable
+- lukeraymonddowning/self-healing-urls
+- mtvs/eloquent-hashids
+- nunomaduro/laravel-sluggable
+- spatie/laravel-prefixed-ids
+- spatie/laravel-sluggable
+- willvincent/laravel-unique
