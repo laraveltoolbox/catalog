@@ -21,13 +21,20 @@ jobs:
       fail-fast: false
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@v5
+    - uses: shivammathur/setup-php@v2
       with:
-        bundler-cache: true
+        php-version: "8.4"
+        coverage: none
+
+    # Only symfony/yaml is needed to build the export; the test dependencies
+    # did their job in CI.
+    - uses: ramsey/composer-install@v3
+      with:
+        composer-options: "--no-dev"
 
     - name: Build catalog export
-      run: bundle exec rake export
+      run: php bin/export.php
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4

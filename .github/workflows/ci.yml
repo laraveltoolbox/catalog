@@ -8,53 +8,43 @@ on:
   # catalog against packagist without pushing a commit
   workflow_dispatch:
 
+env:
+  PHP_VERSION: "8.4"
+
 jobs:
-  bundler-audit:
+  pint:
+    name: Code style
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@v5
+    - uses: shivammathur/setup-php@v2
       with:
-        bundler-cache: true
-    - name: Run bundler-audit
-      env:
-        # Neccessary for jruby test coverage
-        JRUBY_OPTS: "--debug"
-      run: bundle exec bundler-audit --update
+        php-version: ${{ env.PHP_VERSION }}
+        coverage: none
+    - uses: ramsey/composer-install@v3
+    - name: Run Pint
+      run: vendor/bin/pint --test
 
-  rubocop:
+  pest:
+    name: Tests
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@v5
+    - uses: shivammathur/setup-php@v2
       with:
-        bundler-cache: true
-    - name: Install dependencies and run rubocop
-      env:
-        # Neccessary for jruby test coverage
-        JRUBY_OPTS: "--debug"
-      run: bundle exec rubocop
+        php-version: ${{ env.PHP_VERSION }}
+        coverage: none
+    - uses: ramsey/composer-install@v3
 
-  rspec:
-    runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-
-    steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: Install dependencies and run RSpec
-      run: bundle exec rspec
-
-    - uses: actions/upload-artifact@v4
-      with:
-        name: "Test Coverage"
-        path: coverage/
+    # The suite validates the export against the JSON schema, rejects a package
+    # listed twice in one category, and checks every referenced package against
+    # the list packagist publishes — which is the check that catches a typo or
+    # a renamed package before it reaches the site as an empty entry.
+    - name: Run Pest
+      run: vendor/bin/pest

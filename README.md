@@ -67,7 +67,29 @@ The test suite verifies that every referenced package actually exists on
 [packagist.org](https://packagist.org), so a typo or a renamed package fails the
 build rather than silently producing an empty entry on the site.
 
+## Working on the catalog
+
+Editing the catalog needs nothing but a text editor — the files under
+[catalog](./catalog) are the source, and CI builds and checks the rest.
+
+To run the same checks locally, or to look at the export before opening a pull
+request:
+
+```sh
+composer install
+composer test    # schema, duplicates, and every package against packagist
+composer export  # writes build/catalog.json
+```
+
+`build/catalog.json` is generated, never edited: CI builds it on every push to
+`main` and publishes it to the [GitHub Pages branch][export], which is where
+The Laravel Toolbox reads it from.
+
+The build was ported from the upstream project's Ruby implementation and
+produces byte-identical output; see [NOTICE](./NOTICE).
+
 ---
 
+[export]: https://laraveltoolbox.github.io/catalog
 [laraveltoolbox]: https://www.github.com/laraveltoolbox/laraveltoolbox
 [package-ocean]: https://github.com/HassanZahirnia/laravel-package-ocean
