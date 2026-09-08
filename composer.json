@@ -1,0 +1,38 @@
+{
+    "name": "laraveltoolbox/catalog",
+    "description": "Category catalog data for The Laravel Toolbox",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "symfony/yaml": "^7.0"
+    },
+    "require-dev": {
+        "justinrainbow/json-schema": "^6.0",
+        "laravel/pint": "^1.0",
+        "pestphp/pest": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Catalog\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "export": "@php bin/export.php",
+        "lint": "pint --test",
+        "test": "pest"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        },
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
